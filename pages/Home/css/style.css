@@ -2905,3 +2905,67 @@ input[type="search"]::-webkit-search-results-decoration {
 .ckw6o > div {
   background-color: rgb(51 65 85/0.2);
 }
+<<<<<<< Updated upstream
+=======
+
+
+/**carousel styles**/
+
+.carousel {
+  display: flex;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.mycslide {
+  flex: 0 0 100%;
+  transition: transform 1s;
+}
+
+.mycslide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* Add a style for the mobile menu button */
+.mobile-menu-button {
+  display: none; /* Initially hidden on desktop */
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style for the mobile menu icon */
+.mobile-menu-button span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: #333;
+  transition: background-color 0.3s;
+}
+
+/* Style for the mobile navigation */
+.mobile-nav {
+  display: none; /* Initially hidden on desktop */
+}
+
+/* Media query to show/hide elements on different screen sizes */
+@media (max-width: 768px) {
+  .desktop-nav {
+      display: none; /* Hide desktop navigation on mobile */
+  }
+  .mobile-menu-button {
+      display: block; /* Show mobile menu button on mobile */
+  }
+  .mobile-nav {
+      display: block; /* Show mobile navigation on mobile */
+  }
+}
+
+>>>>>>> Stashed changes
