@@ -3031,7 +3031,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 /* The dots/bullets/indicators */
-.dot {
+/* .dot {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -3044,7 +3044,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .active, .dot:hover {
   background-color: #717171;
-}
+} */
 
 /* Fading animation */
 .fade {
@@ -3055,4 +3055,37 @@ input[type="search"]::-webkit-search-results-decoration {
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+
+/*header typing*/
+@keyframes typing {
+  from {
+      width: 0;
+  }
+  to {
+      width: 100%;
+  }
+}
+
+.typewriter-text {
+  overflow: hidden;
+  border-right: .15em solid orange;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
+}
+
+@keyframes blink-caret {
+  from, to {
+      border-color: transparent;
+  }
+  50% {
+      border-color: orange;
+  }
+}
+
+.cmbrg {
+  display: inline-block;
 }
