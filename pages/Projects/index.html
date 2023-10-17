@@ -5,6 +5,7 @@
     <link href="css/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
 <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script></head>
 
 <body class="cxs0p c8fn4 cqrjt cklvb cb0rx">
@@ -13,45 +14,59 @@
     <div class="cx3hx ctkta c1yb0 cqkfc">
 
         <!-- Site header -->
-        <header class="clm9l c8ugf c0l3r">
-            <div class="c82l3 ckx8h cl9xt csj8y">
-                <div class="cx3hx cgoq9 c7n90 cajqb cwd55">
+        <header class="astro-ES6RJE63">
+            <nav class="absolute z-10 w-full border-b border-black/5 dark:border-white/5 lg:border-transparent">
+                <div class="mx-auto max-w-6xl px-6 md:px-12 lg:px-6 xl:px-0">
+                    <div class="relative flex flex-wrap items-center justify-between gap-6 py-2 md:gap-0 md:py-4">
+                        <div class="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
+                            <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
+                                
+                                <img src="images/main_logo.svg" width="60" height="60"/>
 
-                    <!-- Site branding -->
-                    <div class="c3t97 c7f0g">
-                        <!-- Logo -->
-                        <a class="c84xd" href="index.html" aria-label="Cruip">
-                            <img src="images/logo.svg" width="38" height="38" alt="Stellar">
-                        </a>
+                                
+                            </a>
+
+                            <div class="relative flex max-h-10 items-center lg:hidden">
+                                <button type="button" aria-label="humburger" id="hamburger" class="relative -mr-6 p-6">
+                                    <div aria-hidden="true" id="line" class="m-auto h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300"></div>
+                                    <div aria-hidden="true" id="line2" class="m-auto mt-2 h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300"></div>
+                                </button>
+                            </div>
+                        </div>
+                        <div id="navLayer" aria-hidden="true" class="fixed inset-0 z-10 h-screen w-screen origin-bottom scale-y-0 bg-white/70 backdrop-blur-2xl transition duration-500 dark:bg-gray-900/70 lg:hidden"></div>
+                        <div id="navlinks" class="invisible absolute top-full left-0 z-20 w-full origin-top-right translate-y-1 scale-90 flex-col flex-wrap justify-end gap-6 rounded-3xl border border-gray-100 bg-white p-8 opacity-0 shadow-2xl shadow-gray-600/10 transition-all duration-300 dark:border-gray-700 dark:bg-gray-800 dark:shadow-none lg:visible lg:relative lg:flex lg:w-7/12 lg:translate-y-0 lg:scale-100 lg:flex-row lg:items-center lg:gap-0 lg:border-none lg:bg-transparent lg:p-0 lg:opacity-100 lg:shadow-none">
+                            <div class="w-full text-gray-600 dark:text-gray-200 lg:w-auto lg:pr-4 lg:pt-0">
+                                <ul class="flex flex-col gap-6 tracking-wide lg:flex-row lg:justify-center lg:gap-0 lg:text-sm">
+                                    <li>
+                                        <a href="#features" class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                            <span class="text-base lg:text-sm lg:font-thin">Home</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#solution" class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                            <span class="text-base lg:text-sm lg:font-thin">About Us</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#reviews" class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                            <span class="text-base lg:text-sm lg:font-thin">Contact Us</span>
+                                        </a>
+                                    </li>
+                                
+                                </ul>
+                            </div>
+
+                    
+                        </div>
                     </div>
-
-                    <!-- Desktop navigation -->
-                    <nav class="cx3hx cmm3x">
-
-                        <!-- Desktop sign in links -->
-                        <ul class="cx3hx cmm3x cvlfs c7n90 csqfb">
-                            <li>
-                                <a class="crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x" href="signin.html">Sign in</a>
-                            </li>
-                            <li class="c7bu2">
-                                <a class="csi51 c910c c0l3r cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" href="signup.html">
-                                    <span class="c910c cex2t c7n90">
-                                        Sign up <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
-                                    </span>
-                                </a>
-                            </li>
-                        </ul>
-
-                    </nav>
-
                 </div>
-            </div>
+            </nav>
         </header>
 
         <!-- Page content -->
-        <main class="cmm3x">
+        <main class="cmm3x"> 
 
-            <!-- Hero -->
+            <!-- Herom -->
             <section>
                 <div class="c910c c82l3 ckx8h cl9xt csj8y">
 
@@ -67,43 +82,6 @@
                         </div>
                     </div>
 
-                    <div class="cy2cl clflm c4qa9 c1gox">
-
-                        <!-- Hero content -->
-                        <div class="c82l3 cxe5f cst88">
-    
-                            <h1 class="cmbrg cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc" data-aos="fade-down">Ruhuna Racing</h1>
-                            <div class="c66wr" data-aos="fade-down">
-                                <div class="c910c cex2t c85im c3tia c78uy cdqpw">
-                                    <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u" href="#0">
-                                        <span class="c910c cex2t c7n90">
-                                            Department of Mechanical and Manufacturing Engineering <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                            <p class="c4dav cabeq cvgqz" data-aos="fade-down" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur. Praesent facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae praesent eu.</p>
-                            
-
-                        </div>
-
-                    </div>
-                </div>
-            </section>
-
-            
-
-            <!-- the Problem -->
-            <section>
-                <div class="c910c c82l3 ckx8h cl9xt csj8y">
-
-                    <!-- Illustration -->
-                    <div class="cd3pv clm9l crjl7 cbati c0n2e cqkfc ci14e" aria-hidden="true">
-                        <div class="clm9l ck1c9 cto33 cbati c22q0">
-                            <img src="images/projects.jpg" class="cl1mx" width="1404" height="658" alt="Features Illustration">
-                        </div>
-                    </div>
-
                     <div class="ch0mu c9b6d c6ftu c1gox">
 
                         <div x-data="{ tab: '1' }">
@@ -114,11 +92,19 @@
                                 <!-- Content -->
                                 <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
                                     <!-- Content #1 -->
-                                    <div>
-                                        <div class="cex2t cyvm0 cpkpj clbdw cnu2b cvbxf c1xbd c3btc">Design to Compe</div>
+                                    
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Project Raptor</h3>
+                                    <div class="c66wr" data-aos="fade-down">
+                                        <div class="c910c cex2t c85im c3tia c78uy cdqpw">
+                                            <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u" href="#0">
+                                                <span class="c910c cex2t c7n90">
+                                                    Department of Mechanical and Manufacturing Engineering <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                </span>
+                                            </a>
+                                        </div>
                                     </div>
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">The problem?</h3>
                                     <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae praesent eu.</p>
+                                    
             
                                 </div>
 
@@ -137,10 +123,41 @@
                 </div>
             </section>
 
+            <!-- Hero -->
+            <section>
+                <div class="c910c c82l3 ckx8h cl9xt csj8y">
 
+                    <!-- Particles animation -->
+                    <div class="clm9l crjl7 cbati" aria-hidden="true">
+                        <canvas data-particle-animation=""></canvas>
+                    </div>
 
+                    <!-- Illustration -->
+                    <div class="cd3pv clm9l crjl7 cbati c0n2e cqkfc cifrt" aria-hidden="true">
+                        <div class="clm9l cj9ju ck1c9 cbati c22q0">
+                            <img src="images/projects.jpg" class="cl1mx" width="2146" height="774" alt="Hero Illustration">
+                        </div>
+                    </div>
 
-          
+                    <div class="cy2cl clflm c4qa9 c1gox">
+
+                        <!-- Hero content -->
+                        <div class="c82l3 cxe5f cst88">
+                            <div>
+                                <div class="cex2t cyvm0 cpkpj clbdw cnu2b cvbxf c1xbd c3btc">Design to Compete</div>
+                            </div>
+    
+                            <h1 class="cmbrg cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc" data-aos="fade-down">the Problem?</h1>
+                            
+                            <p class="c4dav cabeq cvgqz" data-aos="fade-down" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur. Praesent facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae praesent eu.Lorem ipsum dolor sit amet consectetur. </p>
+                            
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
             <!-- Testimonials carousel -->
             <section>    
                 <div class="c82l3 ckx8h cl9xt csj8y">
