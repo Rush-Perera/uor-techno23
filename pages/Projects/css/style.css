@@ -714,7 +714,7 @@ select {
     letter-spacing: -0.017em;
   }
   .cqbmj {
-    font-size: 2.25rem;
+    font-size: 3.2rem;
     line-height: 1.277;
     letter-spacing: -0.017em;
   }
@@ -778,7 +778,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .cma96:focus,
 .cdbiv:focus {
   --tw-border-opacity: 1;
-  border-color: rgb(168 85 247 / var(--tw-border-opacity));
+  border-color: rgb(26 85 247 / var(--tw-border-opacity));
 }
 .cmdqe,
 .cp7f4,
@@ -1147,6 +1147,9 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .cv4rp {
   margin-top: 2rem;
+}
+.cv4rp2 {
+  margin-top: 4rem;
 }
 .c84xd {
   display: block;
@@ -1533,7 +1536,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .cq8b6 {
   --tw-border-opacity: 1;
-  border-color: rgb(126 34 206 / var(--tw-border-opacity));
+  border-color: rgb(26 85 247 / var(--tw-border-opacity));
 }
 .cupci {
   --tw-border-opacity: 1;
@@ -1556,11 +1559,11 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .cs33t {
   --tw-bg-opacity: 1;
-  background-color: rgb(192 132 252 / var(--tw-bg-opacity));
+  background-color: rgb(26 85 247 / var(--tw-bg-opacity));
 }
 .cytct {
   --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+  background-color: rgb(26 85 247 / var(--tw-bg-opacity));
 }
 .c2q9s {
   --tw-bg-opacity: 1;
@@ -1584,8 +1587,8 @@ input[type="search"]::-webkit-search-results-decoration {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 .cpkpj {
-  --tw-gradient-from: #a855f7 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(168 85 247 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-from: #1a55f7 var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(26 85 247 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 .c1wf5 {
@@ -1625,7 +1628,7 @@ input[type="search"]::-webkit-search-results-decoration {
   fill: currentColor;
 }
 .c6fbz {
-  fill: #a855f7;
+  fill: #1a55f7;
 }
 .cnbxt {
   fill: #e2e8f0;
@@ -1824,7 +1827,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .c5kym {
   --tw-text-opacity: 1;
-  color: rgb(79 70 229 / var(--tw-text-opacity));
+  color: rgb(26 85 247 / var(--tw-text-opacity));
 }
 .citxd {
   --tw-text-opacity: 1;
@@ -1832,7 +1835,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .ckvr2 {
   --tw-text-opacity: 1;
-  color: rgb(168 85 247 / var(--tw-text-opacity));
+  color: rgb(26 85 247 / var(--tw-text-opacity));
 }
 .cnjs5 {
   --tw-text-opacity: 1;
@@ -1872,7 +1875,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .ctvi9 {
   --tw-text-opacity: 1;
-  color: rgb(20 184 166 / var(--tw-text-opacity));
+  color: rgb(26 85 247 / var(--tw-text-opacity));
 }
 .c3btc {
   color: transparent;
@@ -1926,7 +1929,7 @@ input[type="search"]::-webkit-search-results-decoration {
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 .cr50j {
-  --tw-shadow-color: rgb(168 85 247 / 0.25);
+  --tw-shadow-color: rgb(26 85 247 / 0.25);
   --tw-shadow: var(--tw-shadow-colored);
 }
 .cqwcq {
@@ -2063,8 +2066,8 @@ input[type="search"]::-webkit-search-results-decoration {
     90deg,
     transparent,
     transparent 48px,
-    #a855f7 48px,
-    #a855f7 49px
+    #1a55f7 48px,
+    #1a55f7 49px
   );
 }
 .cbw4r {
@@ -2080,8 +2083,8 @@ input[type="search"]::-webkit-search-results-decoration {
   background: repeating-linear-gradient(
     transparent,
     transparent 48px,
-    #a855f7 48px,
-    #a855f7 49px
+    #1a55f7 48px,
+    #1a55f7 49px
   );
 }
 .cdvmy {
@@ -2093,8 +2096,8 @@ input[type="search"]::-webkit-search-results-decoration {
   );
 }
 .crc38 {
-  background: linear-gradient(#a855f7, #a855f7) padding-box,
-    linear-gradient(#a855f7, #e9d5ff 75%, transparent 100%) border-box;
+  background: linear-gradient(#1a55f7, #1a55f7) padding-box,
+    linear-gradient(#1a55f7, #e9d5ff 75%, transparent 100%) border-box;
 }
 .cxli6 {
   background: linear-gradient(#0f172a, #0f172a) padding-box,
@@ -2199,7 +2202,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .c78uy::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+  background-color: rgb(26 85 247 / var(--tw-bg-opacity));
 }
 .cxnq1::before {
   content: var(--tw-content);
@@ -2415,7 +2418,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .cpyov:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(147 51 234 / var(--tw-bg-opacity));
+  background-color: rgb(26 85 247 / var(--tw-bg-opacity));
 }
 .cs96x:hover {
   --tw-bg-opacity: 1;
@@ -2426,7 +2429,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .c8q9c:hover {
   --tw-text-opacity: 1;
-  color: rgb(192 132 252 / var(--tw-text-opacity));
+  color: rgb(26 85 247 / var(--tw-text-opacity));
 }
 .cxovy:hover {
   --tw-text-opacity: 1;
@@ -2531,7 +2534,7 @@ input[type="search"]::-webkit-search-results-decoration {
     scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 .car0u:hover .cmcgw {
-  fill: #a855f7;
+  fill: #1a55f7;
 }
 .cjz9y:hover .cri0w {
   opacity: 1;
@@ -2542,14 +2545,14 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .cjz9y.swiper-slide-active .cxxj9 {
   --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+  background-color: rgb(26 85 247 / var(--tw-bg-opacity));
 }
 .cjz9y.swiper-slide-active .c5bh9 {
   opacity: 1;
 }
 .ctq3b:checked ~ .c8jt9 {
   --tw-bg-opacity: 1;
-  background-color: rgb(168 85 247 / var(--tw-bg-opacity));
+  background-color: rgb(26 85 247 / var(--tw-bg-opacity));
 }
 .ctq3b:checked ~ .cjgfw::before {
   content: var(--tw-content);
@@ -2568,7 +2571,7 @@ input[type="search"]::-webkit-search-results-decoration {
   outline-color: #9ca3af;
 }
 .ctq3b:checked:focus-visible ~ .cv8bw {
-  outline-color: #a855f7;
+  outline-color: #1a55f7;
 }
 @media not all and (min-width: 768px) {
   .c07ac {
@@ -2884,7 +2887,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .ciiuv > div:nth-of-type(4n + 3)::before {
   content: var(--tw-content);
   --tw-border-opacity: 1;
-  border-color: rgb(168 85 247 / var(--tw-border-opacity));
+  border-color: rgb(26 85 247 / var(--tw-border-opacity));
 }
 @media not all and (min-width: 768px) {
   .c2uqp > div:nth-of-type(4n + 3) {
