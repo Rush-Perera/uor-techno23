@@ -511,7 +511,7 @@
     justify-content: center;
   }
   .astro-ES6RJE63 .justify-between {
-    justify-content: space-between;
+    /* justify-content: space-between; */
   }
   .astro-ES6RJE63 .gap-2 {
     gap: 0.5rem;
@@ -1351,7 +1351,7 @@
       width: 50%;
     }
     .astro-ES6RJE63 .lg\:w-7\/12 {
-      width: 58.333333%;
+      width: 66%;
     }
     .astro-ES6RJE63 .lg\:w-8\/12 {
       width: 66.666667%;
