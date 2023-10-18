@@ -248,12 +248,15 @@
 
 .form-item {
   position: relative;
+  margin-top: 20px;
+  color: #000;
 }
 
 label,
 input,
 textarea {
   font-family: "Poppins", sans-serif;
+  color: #000;
 }
 
 label {
@@ -275,6 +278,7 @@ textarea {
   margin-bottom: 20px;
   padding: 12px;
   font-size: clamp(15px, 1.5vw, 18px);
+  color: #000;
 }
 
 input:focus + label,
@@ -283,6 +287,6 @@ textarea:focus + label,
 textarea:valid + label {
   font-size: clamp(13px, 1.3vw, 16px);
   color: #777;
-  top: -20px;
+  top: 20px;
   transition: all 0.225s ease;
 }
