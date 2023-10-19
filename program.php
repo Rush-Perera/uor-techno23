@@ -121,7 +121,11 @@ include "functions/functions.php";
                                 <div class="clx9g c810o cls9d" data-aos="fade-down">
                                     <!-- Content #1 -->
                                     
+
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["department_name"] ?>
+
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["main_topic"] ?>
+
                                     </h3>
                                     <p class="c4dav cabeq cwx0r"><?php echo $program["department_description"] ?></p>
                 
