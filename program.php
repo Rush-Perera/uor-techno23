@@ -121,9 +121,13 @@ include "functions/functions.php";
                                 <div class="clx9g c810o cls9d" data-aos="fade-down">
                                     <!-- Content #1 -->
                                     
+
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["department_name"] ?>
+
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["main_topic"] ?>
+
                                     </h3>
-                                    <p class="c4dav cabeq cwx0r">Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer EngineeringComputer Engineering description Computer Engineering description Computer Engineering description Computer Engineering description Computer Engineering description Computer Engineering description</p>
+                                    <p class="c4dav cabeq cwx0r"><?php echo $program["department_description"] ?></p>
                 
 
                                 </div>
@@ -170,13 +174,13 @@ include "functions/functions.php";
                                     <!-- Text -->
                                     <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
                                         <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">Extensibility</h3>
-                                            <p class="cwx0r">Your login box must find the right balance between user convenience, privacy and security.</p>
+                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project1"] ?></h3>
+                                            <p class="cwx0r"><?php echo $program["project1_description"] ?></p>
                                         </div>
                                     </div>
                                     <!-- Image -->
                                     <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src="images/feature-image-02.png" width="536" height="230" alt="Feature 02">
+                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project1_image"] ?> width="536" height="230" alt="Feature 02">
                                     </div>
                                 </div>
                             </div>
@@ -195,13 +199,13 @@ include "functions/functions.php";
                                     <!-- Text -->
                                     <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
                                         <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">Extensibility</h3>
-                                            <p class="cwx0r">Your login box must find the right balance between user convenience, privacy and security.</p>
+                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project2"] ?></h3>
+                                            <p class="cwx0r"><?php echo $program["project2_description"] ?></p>
                                         </div>
                                     </div>
                                     <!-- Image -->
                                     <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src="images/feature-image-02.png" width="536" height="230" alt="Feature 02">
+                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project2_image"] ?> width="536" height="230" alt="Feature 02">
                                     </div>
                                 </div>
                             </div>
@@ -220,13 +224,13 @@ include "functions/functions.php";
                                     <!-- Text -->
                                     <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
                                         <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">Extensibility</h3>
-                                            <p class="cwx0r">Your login box must find the right balance between user convenience, privacy and security.</p>
+                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project3"] ?></h3>
+                                            <p class="cwx0r"><?php echo $program["project3_description"] ?></p>
                                         </div>
                                     </div>
                                     <!-- Image -->
                                     <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src="images/feature-image-02.png" width="536" height="230" alt="Feature 02">
+                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project3_image"] ?> width="536" height="230" alt="Feature 02">
                                     </div>
                                 </div>
                             </div>
@@ -245,13 +249,13 @@ include "functions/functions.php";
                                     <!-- Text -->
                                     <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
                                         <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">Extensibility</h3>
-                                            <p class="cwx0r">Your login box must find the right balance between user convenience, privacy and security.</p>
+                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project4"] ?></h3>
+                                            <p class="cwx0r"><?php echo $program["project4_description"] ?></p>
                                         </div>
                                     </div>
                                     <!-- Image -->
                                     <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src="images/feature-image-02.png" width="536" height="230" alt="Feature 02">
+                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project4_image"] ?> width="536" height="230" alt="Feature 02">
                                     </div>
                                 </div>
                             </div>
@@ -290,10 +294,10 @@ include "functions/functions.php";
                                             <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
                                         </div>
                                         <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src="images/carousel-icon-01.svg" width="56" height="56" alt="Icon 01">
+                                            <img class="ca0bb" src=<?php echo $program["society1_image"] ?> width="56" height="56" alt="Icon 01">
                                             <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy">Anonymous User</div>
-                                                <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society1"] ?></div>
+                                                <div class="ca0bb cwx0r"><?php echo $program["society1_description"] ?></div>
                                             </div>
                                             <div class="cbtot">
                                                 <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
@@ -312,10 +316,10 @@ include "functions/functions.php";
                                             <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
                                         </div>
                                         <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src="images/carousel-icon-02.svg" width="56" height="56" alt="Icon 01">
+                                            <img class="ca0bb" src=<?php echo $program["society2_image"] ?> width="56" height="56" alt="Icon 01">
                                             <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy">Bot Detection</div>
-                                                <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society2"] ?></div>
+                                                <div class="ca0bb cwx0r"><?php echo $program["society2_description"] ?></div>
                                             </div>
                                             <div class="cbtot">
                                                 <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
@@ -334,10 +338,10 @@ include "functions/functions.php";
                                             <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
                                         </div>
                                         <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src="images/carousel-icon-03.svg" width="56" height="56" alt="Icon 01">
+                                            <img class="ca0bb" src=<?php echo $program["society3_image"] ?> width="56" height="56" alt="Icon 01">
                                             <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy">Social integrations</div>
-                                                <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society3"] ?></div>
+                                                <div class="ca0bb cwx0r"><?php echo $program["society3_description"] ?></div>
                                             </div>
                                             <div class="cbtot">
                                                 <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>

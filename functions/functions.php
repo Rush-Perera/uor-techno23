@@ -17,7 +17,7 @@ else if (isset($_GET['program']) && $_SESSION['program'] != $_GET['program'] && 
 }
 
 if (!isset($_SESSION['project']))
-    $_SESSION['project'] = "dmme";
+    $_SESSION['project'] = "dmmeP1";
 else if (isset($_GET['project']) && $_SESSION['project'] != $_GET['project'] && !empty($_GET['project'])) {
     if ($_GET['project'] == "dmmeP1")
         $_SESSION['project'] = "dmmeP1";
@@ -32,6 +32,6 @@ else if (isset($_GET['project']) && $_SESSION['project'] != $_GET['project'] && 
 }
 
 require_once "data/program/" . $_SESSION['program'] . ".php";
-require_once "data/project/" . $_SESSION['project'] . ".php";
+// require_once "data/project/" . $_SESSION['project'] . ".php";
 
 ?>
