@@ -1,3 +1,7 @@
+<?php
+include "functions/functions.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -117,7 +121,7 @@
                                 <div class="clx9g c810o cls9d" data-aos="fade-down">
                                     <!-- Content #1 -->
                                     
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Computer Engineering
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["main_topic"] ?>
                                     </h3>
                                     <p class="c4dav cabeq cwx0r">Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer Engineering Computer Engineering description Computer Engineering description Computer EngineeringComputer Engineering description Computer Engineering description Computer Engineering description Computer Engineering description Computer Engineering description Computer Engineering description</p>
                 
