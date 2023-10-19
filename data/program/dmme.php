@@ -1,6 +1,6 @@
 <?php
 $program =  array (
 
-    "earthygreen_topic" => "Earthygreen Eco"
+    "main_topic" => "Mechanical and Manufacturing Engineering"
 
 );

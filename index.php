@@ -1,3 +1,7 @@
+<?php
+include "functions/functions.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -643,7 +647,36 @@
             </section>
 
 
+<!-- Postgrad oppertunities -->
+<section class="c910c">
+                <div class="c910c c82l3 ckx8h cl9xt csj8y">
 
+                    <!-- Blurred shape -->
+                    <div class="cd3pv clm9l cdelm cto33 cbati cs4t9 c9aya c05st cf1fs" aria-hidden="true">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
+                            <defs>
+                                <linearGradient id="bs4-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
+                                    <stop offset="0%" stop-color="#A855F7"></stop>
+                                    <stop offset="100%" stop-color="#6366F1" stop-opacity="0"></stop>
+                                </linearGradient>
+                            </defs>
+                            <path fill="url(#bs4-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)"></path>
+                        </svg>
+                    </div>
+
+                    <div class="ch0mu c9b6d c6ftu cq2hq">
+            
+                        <!-- Section header -->
+                        <div class="cxe5f ch0mu c6ftu">
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Postgraduate opportunities</h2>
+                            <p class="cabeq cwx0r">Computer engineering students have diverse career prospects, including data science, software engineering, and more. Graduates can also pursue postgraduate studies (MEng, MSc, MPhil, DEng, or PhD) at the University of Ruhuna or globally.</p>
+                        </div>
+
+                        
+            
+                    </div>
+                </div>
+            </section>
 
             <!-- Societies -->
             <section>
