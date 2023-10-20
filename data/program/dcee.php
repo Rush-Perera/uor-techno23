@@ -1,6 +1,9 @@
 <?php
 $program =  array(
 
+    "website"=>"http://eie.eng.ruh.ac.lk/dcee/",
+
+
     "department_name" => "Civil and Enviornmental Engineering",
     "department_description" => "The Civil and Environmental Engineering Department, a top-ranked state university with talented students, is fully accredited since 2010 and engages in diverse research areas with national and international collaborations.",
 

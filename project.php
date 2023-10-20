@@ -114,22 +114,19 @@ include "functions/functions.php";
                                 <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
                                     <!-- Content #1 -->
 
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb"><?php echo $program["project".$i."_image"] ?></h3>
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb"><?php echo $program["project_title"] ?></h3>
                                     <div class="c66wr c4dav" data-aos="fade-down">
                                         <div class="c910c cex2t c85im c3tia c78uy cdqpw">
                                             <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u"
                                                 href="#0">
                                                 <span class="c910c cex2t c7n90">
-                                                    Department of Mechanical and Manufacturing Engineering <span
+                                                <?php echo $program["department"] ?> <span
                                                         class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
                                                 </span>
                                             </a>
                                         </div>
                                     </div>
-                                    <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent
-                                        facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam
-                                        morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae
-                                        praesent eu.</p>
+                                    <p class="c4dav cabeq cwx0r"><?php echo $program["project_description"] ?></p>
 
 
                                 </div>
@@ -164,7 +161,7 @@ include "functions/functions.php";
                         <!-- Section header -->
                         <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
                             <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Problem</h2>
-                            <p class="cabeq cwx0r">There are many variations available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            <p class="cabeq cwx0r"><?php echo $program["problem_description"] ?></p>
                         </div>
 
                     </div>
@@ -202,13 +199,10 @@ include "functions/functions.php";
                                     <!-- Content #1 -->
 
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Procedure</h3>
-                                    <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent
-                                        facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam
-                                        morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae
-                                        praesent eu.</p>
+                                    <p class="c4dav cabeq cwx0r"><?php echo $program["project_procedure_description"] ?></p>
+                                    <!-- <li>point 1 </li> 
                                     <li>point 1 </li> 
-                                    <li>point 1 </li> 
-                                    <li>point 1 </li> 
+                                    <li>point 1 </li>  -->
 
 
                                 </div>
@@ -255,14 +249,12 @@ include "functions/functions.php";
 
                    
 
-                    <div class="ch0mu c9b6d c6ftu">
+                    <!-- <div class="ch0mu c9b6d c6ftu">
 
                         <div x-data="{ tab: '1' }">
                             <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Outcome</h3>
-                            <!-- Section content -->
                             <div class="c82l3 cx3hx cbywq c1yb0 cw977 ckwfp cik1e cxp2a c7lcb cj1ja cc6yz crj76"> 
 
-                                <!-- Image -->
                                 <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
                                     <div class="c910c cx3hx c7n90 c16i7">
                                         <img src="images/projects.png">
@@ -286,7 +278,7 @@ include "functions/functions.php";
 
                         </div>
 
-                    </div>
+                    </div> -->
                 </div>
             </section>
             <section>
@@ -316,8 +308,7 @@ include "functions/functions.php";
                         </div>
                         <!-- Content -->
                         <div class="c82l3 cxe5f cst88">
-                            <p class="c4dav cabeq cwx0r">All the lorem ipsum generators on the Internet tend to repeat
-                                predefined chunks as necessary, making this the first true generator on the Internet.
+                            <p class="c4dav cabeq cwx0r"><?php echo $program["project_outcome"] ?>
                             </p>
                         
                         </div>
