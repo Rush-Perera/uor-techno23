@@ -24,10 +24,10 @@ $program =  array (
     "project4_description" =>"Professional athletes aim for peak performance while managing injury and fatigue risks. Our innovative system includes a network of wearable devices with integrated sensors, collecting performance data for analysis, enhancing training, and injury prevention. We aim to democratize high-quality athletic training solutions for wider accessibility.
     ",
 
-    "project1_image" =>"images/deie_pi_1.webp",
-    "project2_image" =>"images/deie_pi_2.webp",
-    "project3_image" =>"images/deie_pi_3.webp",
-    "project4_image" =>"images/deie_pi_4.webp",
+    "project1_image" => "images/home_projects/deie_P1I1_home.png",
+    "project2_image" => "images/home_projects/deie_P2I2_home.png",
+    "project3_image" => "images/home_projects/deie_P3I1_home.png",
+    "project4_image" => "images/home_projects/deie_P4I1_home.png",
 
     "society1" =>"Electrical and Information Engineering Society (EIES)",
     "society1_description" =>"EIES is the main society within the department that consists of the academic staff and students.  The academic staff of the department facilitates to EIES as an advisory board and the students lead each activity organized by the society.  The goal of the Electrical and Information Engineering Society is to upgrade student’s life in the department allowing them to improve not only academic and technical skills but also their leadership interpersonal and professional qualities.",
