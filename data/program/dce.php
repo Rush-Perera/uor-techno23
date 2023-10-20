@@ -1,6 +1,8 @@
 <?php
 $program =  array (
 
+    "website"=>"http://eie.eng.ruh.ac.lk/academics/computer-engineering/",
+
     "department_name" => "Computer Engineering",
     "department_description" => "The Department of Computer Engineering was launched in 2020, offering Bachelor of Science in Engineering Honors degree to 200 students per batch. Our program provides specialization options in Software Engineering, Machine Learning, Cyber Security and Networking engineering and Electronics and Embedded Systems Engineering.",
     "project1" =>"",

@@ -114,19 +114,25 @@ include "functions/functions.php";
                                 <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
                                     <!-- Content #1 -->
 
+
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb"><?php echo $project["project_title"] ?></h3>
+
                                     <div class="c66wr c4dav" data-aos="fade-down">
                                         <div class="c910c cex2t c85im c3tia c78uy cdqpw">
                                             <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u"
                                                 href="#0">
                                                 <span class="c910c cex2t c7n90">
+
                                                 <?php echo $project["department"] ?> <span
+
                                                         class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
                                                 </span>
                                             </a>
                                         </div>
                                     </div>
+
                                     <p class="c4dav cabeq cwx0r"><?php echo $project["project_description"] ?></p>
+
 
 
                                 </div>
@@ -161,7 +167,9 @@ include "functions/functions.php";
                         <!-- Section header -->
                         <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
                             <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Problem</h2>
+
                             <p class="cabeq cwx0r"><?php echo $project["problem_description"] ?></p>
+
                         </div>
 
                     </div>
@@ -199,7 +207,9 @@ include "functions/functions.php";
                                     <!-- Content #1 -->
 
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Procedure</h3>
+
                                     <p class="c4dav cabeq cwx0r"><?php echo $project["project_procedure_description"] ?></p>
+
                                     <!-- <li>point 1 </li> 
                                     <li>point 1 </li> 
                                     <li>point 1 </li>  -->
@@ -308,8 +318,10 @@ include "functions/functions.php";
                         </div>
                         <!-- Content -->
                         <div class="c82l3 cxe5f cst88">
+
                             <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Outcome</h2>
                             <p class="c4dav cabeq cwx0r"><?php echo $project["project_outcome"] ?>
+
                             </p>
                         
                         </div>
