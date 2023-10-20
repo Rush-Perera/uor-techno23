@@ -9,8 +9,7 @@ $program =  array (
     From its inception in the Year 2000, the Department of Electrical and Information Engineering has become a regional plus national hub for innovation, research excellence, and community services in the country. The Department has already produced 850 graduates and these graduates hold key positions in both Industry and Academia, not only in Sri Lanka even in many other countries of the globe.
     
     Further details can be obtained by visiting the official web site of the department.
-    
-    Visit us : http://eie.eng.ruh.ac.lk/",
+    ","short" =>"deie",
     "project_count" => 4,
 "society_count" => 4,
 
