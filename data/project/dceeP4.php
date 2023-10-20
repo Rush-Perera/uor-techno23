@@ -4,7 +4,8 @@ $project =  array(
     "project_title" => "Highway Multi-Modal Hub",
     "department" => "Civil and Enviornmental Engineering",
     "project_description" => "The efficiency and effectiveness of transport infrastructure is directly correlated to a growing economy. The proposed design of an expressway infused with a multi- modal hub is expected to impact the economy of the country in a positive way.",
-    "project_image" => "images/dcee_P4I1.webp",
+    "project_image" => "images/home_projects/dcee_P4I1_home.png",
+
 
     "problem_description" => "The complacent nature of the public when it comes to using expressways and public transport negatively impacts the economy of the country. The unavailability
     of multi-modal transit points in rural areas also adversely impacts the development of such areas.",

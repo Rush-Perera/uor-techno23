@@ -5,7 +5,7 @@ $project =  array(
     "department" => "Civil and Enviornmental Engineering",
     "project_description" => "A floating city model is a futuristic urban concept built on water bodies. These cities tackle issues like overpopulation and climate change by utilizing advanced technologies for sustainable living. They promise innovative solutions to urban challenges, creating resilient communities that adapt to changing environmental conditions while offering unique living experiences with breathtaking waterfront views. As global urbanization and climate concerns continue to rise, the concept of floating cities represents an exciting fusion of innovation and environmental sustainability, showing the potential to reshape the way we think about urban development and our relationship with water
     ",
-    "project_image" => "images/dcee_P1I1.webp",
+    "project_image" => "images/home_projects/dcee_P1I1_home.png",
 
     "problem_description" => "Floating city models face challenges. These include engineering complexities for stability, waste management in aquatic environments, and regulatory and legal issues in international waters. Additionally, ensuring self-sufficiency in terms of energy and resources can be a major hurdle. Balancing environmental impact and sustainability is crucial, and potential disruption to marine ecosystems must be addressed. Moreover, the high costs associated with construction and maintenance can limit their widespread adoption. Solving these problems is essential to realize the full potential of floating city concepts
     ",

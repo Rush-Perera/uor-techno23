@@ -4,7 +4,8 @@ $project =  array (
     "project_title" => "DESIGN AND DEVELOPMENT OF A COCOA MELANGING AND CONCHING MACHINE FOR SMALL-SCALE INDUSTRY",
     "department"=>"Department of Mechanical Engineering",
     "project_description" => "The development of a Cocoa Melanging and Conching Machine which can make 10kg of cocoa butter while maintaining the quality and flavor for the Small-Scale Industry was created to address the need for an efficient and affordable cocoa processing solution for small-scale chocolate producers. ",
-    "project_image" => "dce_p1i1.webp",
+    "project_image" => "images/home_projects/dmme_P1I1_home.png",
+
 
     "problem_description" => "Small-scale industries lack machines combining cocoa conching and melanging. The existing two-machine process is energy and time-consuming. This innovative machine aims for efficient, cost-effective, high-quality chocolate production, boosting competitiveness, reducing labor costs, and spurring business expansion.
     ",

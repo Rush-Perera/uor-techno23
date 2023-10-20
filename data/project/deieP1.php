@@ -4,7 +4,8 @@ $project =  array (
     "project_title" => "Intelligent combination of Wi-Fi and mobile data simultaneously for better internet speed",
     "department"=>"Department of Electrical and Information Engineering",
     "project_description" => "Traditional Transmission Control Protocol (TCP) has long been the major transport layer protocol of data transmission over a single network link. Modern applications need higher bandwidth requirements, which must be achieved using multiple simultaneous connections rather than one single link. Multi path TCP (MPTCP) protocol is the perfect candidate for that kind of application. Therefore, this work introduces the development of a MPTCP based router, which gives a higher bandwidth experience to the user by combining the speed of two or more access links. This work has also introduced a novel scheduler algorithm to improve the performance of MPTCP in terms of bandwidth and latency.",
-    "project_image" => "images/deie_P1I1.webp",
+    "project_image" => "images/home_projects/deie_P1I1_home.png",
+
 
     "problem_description" => "Even if smart devices have multiple network interfaces, they rely on one network interface to connect to the Internet and carry out tasks, including downloading files, watching videos and etc. However, there is a bandwidth limit that one connection can achieve. If there is a solution to use all the available network interfaces simultaneously users can enjoy a much better internet experience.",
     "pd_img1" => "",

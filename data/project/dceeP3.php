@@ -7,7 +7,8 @@ $project =  array(
     "department" => "Civil and Enviornmental Engineering",
     "project_description" => "Rubberized concrete, a cutting-edge construction material, blends traditional concrete with recycled rubber particles. This innovation enhances resilience, durability, and flexibility in infrastructure, making it ideal for sustainable and earthquake-resistant applications.
     ",
-    "project_image" => "images/dcee_P3I1.webp",
+    "project_image" => "images/home_projects/dcee_P3I1_home.png",
+
 
     "problem_description" => "Rubberized concrete presents challenges. It's costlier, with potential issues in strength, durability, and chemical compatibility. Achieving a smooth surface finish is tricky, and standards are lacking. Addressing these is crucial for its successful adoption.
     ",
