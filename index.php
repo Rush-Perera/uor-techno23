@@ -7,14 +7,14 @@ include "functions/functions.php";
 
 <head>
     <meta charset="utf-8">
-    <title>Project - FOE-UOR | Techno 2023</title>
+    <title>Contact - FOE-UOR | Techno 2023</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link href="css/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
-    <link href="css/projects.css" rel="stylesheet">
-    <link href="css/header.css" rel="stylesheet">
+    <link href="css/home.css" rel="stylesheet">
+    <link href="css/header-home.css" rel="stylesheet">
+    <link href="css/contact.css" rel="stylesheet">
     <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script>
-
 </head>
 
 <body class="cxs0p c8fn4 cqrjt cklvb cb0rx">
@@ -28,12 +28,12 @@ include "functions/functions.php";
                 <div class="mx-auto max-w-6xl px-6 md:px-12 lg:px-6 xl:px-0">
                     <div class="relative flex flex-wrap items-center justify-between gap-6 py-2 md:gap-0 md:py-4">
                         <div class="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
-                            <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
+                            <!-- <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
 
                                 <img src="images/main_logo.svg" width="60" height="60" />
 
 
-                            </a>
+                            </a> -->
 
                             <div class="relative flex max-h-10 items-center lg:hidden">
                                 <button type="button" aria-label="humburger" id="hamburger" class="relative -mr-6 p-6">
@@ -86,7 +86,7 @@ include "functions/functions.php";
         <!-- Page content -->
         <main class="cmm3x">
 
-            <!-- main -->
+            <!-- Hero -->
             <section>
                 <div class="c910c c82l3 ckx8h cl9xt csj8y">
 
@@ -103,45 +103,29 @@ include "functions/functions.php";
                         </div>
                     </div>
 
-                    <div class="ch0mu c9b6d c6ftu c1gox">
+                    <div class="cy2cl clflm c4qa9 ">
 
-                        <div x-data="{ tab: '1' }">
+                        <!-- Hero content -->
+                        <div class="c82l3 cxe5f cst88">
 
-                            <!-- Section content -->
-                            <div class="c82l3 cx3hx cbywq c1yb0 cw977 ckwfp cik1e cxp2a c7lcb cj1ja cc6yz crj76">
+                            <h1 class="cmbrg cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc" data-aos="fade-down">Contact Us
+                            </h1>
 
-                                <!-- Content -->
-                                <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
-                                    <!-- Content #1 -->
-
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb">Project Raptor</h3>
-                                    <div class="c66wr c4dav" data-aos="fade-down">
-                                        <div class="c910c cex2t c85im c3tia c78uy cdqpw">
-                                            <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u"
-                                                href="#0">
-                                                <span class="c910c cex2t c7n90">
-                                                    Department of Mechanical and Manufacturing Engineering <span
-                                                        class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent
-                                        facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam
-                                        morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae
-                                        praesent eu.</p>
-
-
-                                </div>
-
-                                <!-- Image -->
-                                <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
-                                    <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
-                                    </div>
-                                </div>
-
+                            <div>
+                                <a class="ccr9i c0l3r cxs0p cejt7 c2wc5 cqlg5 cl1vv cl17h c4znw c4a6x" href="#0">
+                                    <svg class="cry3f c7f0g cjig1" xmlns="http://www.w3.org/2000/svg" width="16"
+                                        height="16">
+                                        <path
+                                            d="m1.999 0 1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 0l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 10l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM6.292 7.586l2.646-2.647L11.06 7.06 8.413 9.707zM0 13.878l5.586-5.586 2.122 2.121L2.12 16z">
+                                        </path>
+                                    </svg>
+                                    <span>Faculty of Engineering - University of Ruhuna</span>
+                                </a>
                             </div>
+
+
+
+
 
                         </div>
 
@@ -149,181 +133,193 @@ include "functions/functions.php";
                 </div>
             </section>
 
-            <!-- Problem -->
             <section class="c910c">
+
                 <!-- Particles animation -->
                 <div class="clm9l ck1c9 cto33 cbati ct1az c9aya cstld c82cr c22q0">
                     <div class="clm9l crjl7 cbati" aria-hidden="true">
-                        <canvas data-particle-animation="" data-particle-quantity="6" data-particle-staticity="30" width="320" height="320" style="width: 320px; height: 320px;"></canvas>
+                        <canvas data-particle-animation="" data-particle-quantity="6" data-particle-staticity="30"
+                            width="370" height="370" style="width: 340px; height: 340px;"></canvas>
                     </div>
                 </div>
 
                 <div class="c82l3 ckx8h cl9xt csj8y">
                     <div class="c9b6d cq2hq">
 
-                        <!-- Section header -->
-                        <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
-                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Problem</h2>
-                            <p class="cabeq cwx0r">There are many variations available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                        </div>
+                        <!-- Highlighted boxes -->
+                        <div class="c910c ch0mu c6ftu">
+                            <!-- Blurred shape -->
+                            <div class="cd3pv clm9l cj9ju ck1c9 cpzqy c22q0 c5nt0 cf1fs" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
+                                    <defs>
+                                        <linearGradient id="bs2-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
+                                            <stop offset="0%" stop-color="#6366F1" data-darkreader-inline-stopcolor=""
+                                                style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                            <stop offset="100%" stop-color="#6366F1" stop-opacity="0"
+                                                data-darkreader-inline-stopcolor=""
+                                                style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <path fill="url(#bs2-a)" fill-rule="evenodd" d="m346 898 461 369-284 58z"
+                                        transform="translate(-346 -898)"></path>
+                                </svg>
+                            </div>
+                            <!-- Grid -->
+                            <div class="cb706 c5v3q car0u c3wfo" data-highlighter="">
+                                <!-- Box #1 -->
+                                <div class="cw4bu aos-init aos-animate" data-aos="fade-down"
+                                    style="--mouse-x: 528.2448425292969px; --mouse-y: 40.4151611328125px;">
+                                    <div
+                                        class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
+                                                                y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1"
+                                                                    data-darkreader-inline-stopcolor=""
+                                                                    style="--darkreader-inline-stopcolor: #0d0f8c;">
+                                                                </stop>
+                                                                <stop offset="100%" stop-color="#6366F1"
+                                                                    stop-opacity="0" data-darkreader-inline-stopcolor=""
+                                                                    style="--darkreader-inline-stopcolor: #0d0f8c;">
+                                                                </stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd"
+                                                            d="m104 .827 461 369-284 58z"
+                                                            transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <div class="cd3pv clm9l cj9ju ck1c9 cbati cx3hx c6prr c3ztf c22q0 cht4j c7n90 c16i7"
+                                                    aria-hidden="true">
+                                                    <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                                                    <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                                                </div>
 
-                    </div>
-                </div>
-            </section>
 
-        
-
-            <!-- Procedure -->
-            <section>
-                <div class="c910c c82l3 ckx8h cl9xt csj8y">
-
-                    <!-- Particles animation -->
-                    <div class="clm9l crjl7 cbati" aria-hidden="true">
-                        <canvas data-particle-animation=""></canvas>
-                    </div>
-
-                    <!-- Illustration -->
-                    <div class="cd3pv clm9l crjl7 cbati c0n2e cqkfc cifrt" aria-hidden="true">
-                        <div class="clm9l cj9ju ck1c9 cbati c22q0">
-                            <img src="images/glow-bottom.sv" class="cl1mx" width="2146" height="774"
-                                alt="Hero Illustration">
-                        </div>
-                    </div>
-
-                    <div class="ch0mu c9b6d c6ftu cq2hq">
-
-                        <div x-data="{ tab: '1' }">
-
-                            <!-- Section content -->
-                            <div class="c82l3 cx3hx cbywq c1yb0 cw977 ckwfp cik1e cxp2a c7lcb cj1ja cc6yz crj76">
-
-                                <!-- Content -->
-                                <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
-                                    <!-- Content #1 -->
-
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Procedure</h3>
-                                    <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent
-                                        facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam
-                                        morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae
-                                        praesent eu.</p>
-                                    <li>point 1 </li> 
-                                    <li>point 1 </li> 
-                                    <li>point 1 </li> 
-
-
-                                </div>
-
-                                <!-- Image -->
-                                <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
-                                    <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3
+                                                                class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
+                                                                Address</h3>
+                                                            <p class="cwx0r">Faculty of Engineering, <br>University of
+                                                                Ruhuna <br>Hapugala,<br>
+                                                                Galle, <br>Sri Lanka 80000</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cgbi5">
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
+                                                                Phone :+(94)912245765/66 <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="cgbi5">
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
+                                                                Fax :+(94)912245762 <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
+                                                                Email :ar [AT] eng.ruh.ac.lk <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb  cqkfc cbwl6">
+                                                    <iframe
+                                                        class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4"
+                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.380118257471!2d80.18938967547578!3d6.079373728164024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae1714b88f66a7b%3A0x8a7feea89839a01a!2zRmFjdWx0eSBvZiBFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBSdWh1bmEgKOC2ieC2guC2ouC3kuC2seC3muC2u-C3lCDgtrTgt5PgtqjgtrosIOC2u-C3lOC3hOC3lOC2q-C3lCDgt4Dgt5Lgt4Hgt4rgt4Dgt4Dgt5Lgtq_gt4rigI3gtrrgt4_gtr3gtros4LeE4La04LeU4Lac4La9ICk!5e0!3m2!1sen!2slk!4v1697733637113!5m2!1sen!2slk"
+                                                        width="600" height="450" style="border:0;" allowfullscreen=""
+                                                        loading="lazy"
+                                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
 
                             </div>
-
                         </div>
+
+
 
                     </div>
                 </div>
             </section>
 
-            <!-- Outcome -->
-            <section>
-                <div class="c910c c82l3 ckx8h cl9xt csj8y">
-
-                    <!-- Particles animation -->
-                    <div class="clm9l crjl7 cbati" aria-hidden="true">
-                        <canvas data-particle-animation=""></canvas>
-                    </div>
-
-                    <!-- Illustration -->
-                    <div class="cd3pv clm9l crjl7 cbati c0n2e cqkfc cifrt" aria-hidden="true">
-                        <div class="clm9l cj9ju ck1c9 cbati c22q0">
-                            <img src="images/glow-bottom.sv" class="cl1mx" width="2146" height="774"
-                                alt="Hero Illustration">
-                        </div>
-                    </div>
-                   
-
-                    <!-- Radial gradient -->
-                    <div class="cd3pv clm9l ck1c9 cto33 cbati cx3hx c6prr c8t6z c22q0 cwoop c7n90 c16i7"
-                        aria-hidden="true">
-                        <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
-                        <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
-                    </div>
-
-                   
-
-                    <div class="ch0mu c9b6d c6ftu">
-
-                        <div x-data="{ tab: '1' }">
-                            <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Outcome</h3>
-                            <!-- Section content -->
-                            <div class="c82l3 cx3hx cbywq c1yb0 cw977 ckwfp cik1e cxp2a c7lcb cj1ja cc6yz crj76"> 
-
-                                <!-- Image -->
-                                <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
-                                    <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
-                                    </div>
-                                </div>
-                                <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
-                                    <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
-                                    </div>
-                                </div>
-                                <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
-                                    <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
-                                    </div>
-                                </div>
-
-                                
-
-                            </div>
-                            
-
-                        </div>
-
-                    </div>
-                </div>
-            </section>
+            <!-- Features #2 -->
             <section>
                 <div class="c82l3 ckx8h cl9xt csj8y">
                     <div class="c910c cqkfc c04c5 cevdd c4ok0 cqppu">
                         <!-- Radial gradient -->
-                        <div class="cd3pv clm9l ck1c9 cto33 cbati cx3hx c6prr c8t6z c22q0 cwoop c7n90 c16i7"
-                            aria-hidden="true">
+                        <!-- <div class="cd3pv clm9l ck1c9 cto33 cbati cx3hx c6prr c8t6z c22q0 cwoop c7n90 c16i7" aria-hidden="true">
                             <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
                             <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
-                        </div>
+                        </div> -->
                         <!-- Blurred shape -->
-                        <div class="cd3pv clm9l cj9ju cdelm cbati cht4j c5nt0 cf1fs" aria-hidden="true">
+                        <!-- <div class="cd3pv clm9l cj9ju cdelm cbati cht4j c5nt0 cf1fs" aria-hidden="true">
                             <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
                                 <defs>
                                     <linearGradient id="bs5-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
-                                        <stop offset="0%" stop-color="#1a55f7" data-darkreader-inline-stopcolor=""
-                                            style="--darkreader-inline-stopcolor: #1a55f7;"></stop>
-                                        <stop offset="100%" stop-color="#1a55f7" stop-opacity="0"
-                                            data-darkreader-inline-stopcolor=""
-                                            style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                        <stop offset="0%" stop-color="#A855F7"></stop>
+                                        <stop offset="100%" stop-color="#6366F1" stop-opacity="0"></stop>
                                     </linearGradient>
                                 </defs>
-                                <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z"
-                                    transform="matrix(1 0 0 -1 0 427)"></path>
+                                <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)"></path>
                             </svg>
-                        </div>
+                        </div> -->
                         <!-- Content -->
                         <div class="c82l3 cxe5f cst88">
-                            <p class="c4dav cabeq cwx0r">All the lorem ipsum generators on the Internet tend to repeat
-                                predefined chunks as necessary, making this the first true generator on the Internet.
-                            </p>
-                        
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">We value your Feedback</h2>
+                            <p class="cabeq cwx0r caxse">Please don't hesitate to provide your valuable feedback to us. Your thoughts and suggestions are invaluable in shaping our platform to better meet your needs and expectations.</p>
+                            <div class="container_text">
+                                <div class="contact-form-wrapper">
+                                    <div class="form-item1">
+                                        <input class="input-item" type="text" name="sender" id="sender" required=""
+                                            placeholder="Name">
+                                    </div>
+                                    <div class="form-item1">
+                                        <input class="input-item" type="email" name="email" id="email" required=""
+                                            placeholder="Email">
+                                    </div>
+                                    <div class="form-item1">
+                                        <textarea class="input-item" name="message" required="" id="message" rows="6"
+                                            placeholder="Message"></textarea>
+                                    </div>
+                                    <div>
+                                        <button
+                                            class="ccr9i cyvm0 cf5ds casm6 cdjur chy5c cqlg5 cl1vv cl17h cs96x car0u"
+                                            onclick="sendMail()">
+                                            Submit <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>
             </section>
+
 
 
 
@@ -417,11 +413,8 @@ include "functions/functions.php";
 
                     <!-- 3rd block -->
                     <div class="cp4p0 cywcr cihm4">
-                        <h6 class="ccmhz crcb7 c1xbd c2cw1">Company</h6>
+                        <h6 class="ccmhz crcb7 c1xbd c2cw1">Socities</h6>
                         <ul class="c7axt crcb7">
-                            <li>
-                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">Socities</a>
-                            </li>
                             <li>
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">IEEE</a>
                             </li>
@@ -429,10 +422,13 @@ include "functions/functions.php";
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">EIES</a>
                             </li>
                             <li>
-                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">MMES</a>
+                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">MMESS</a>
                             </li>
                             <li>
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">CEES</a>
+                            </li>
+                            <li>
+                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">IET</a>
                             </li>
                         </ul>
                     </div>
@@ -486,6 +482,66 @@ include "functions/functions.php";
         data-cf-beacon="{"
         rayid":"81302398af6965fc","version":"2023.8.0","r":1,"token":"59cc17d45d734f9ba118c63036ab1b84","si":100}"=""
         crossorigin="anonymous"></script>
+
+    <script>
+
+        let slideIndex = 0;
+        showSlides();
+
+        function showSlides() {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) { slideIndex = 1 }
+            slides[slideIndex - 1].style.display = "block";
+            setTimeout(showSlides, 2000); // Change image every 2 seconds
+        }
+
+        function sendMail() {
+
+
+            var sender = document.getElementById("sender");
+            var email = document.getElementById("email");
+            var message = document.getElementById("message");
+            
+            // Get the form data
+            const formData = new FormData();
+            formData.append("sender", sender.value);
+            formData.append("email", email.value);
+            formData.append("message", message.value);
+
+            sender.value = "";
+            email.value = "";
+            message.value = "";
+
+
+            // Send the data to the PHP script using the fetch API
+            fetch("./forms/sendEmail.php", {
+                method: "POST",
+                body: formData
+            })
+                .then((response) => response.text())
+                .then((data) => {
+                    // Handle the response from the PHP script here
+                    alert("Email sent successfully");
+
+                })
+                .catch((error) => {
+                    console.error("Error:", error);
+                });
+        };
+
+
+
+    </script>
+
+    <script>
+        (function () { const l = document.createElement("link").relList; if (l && l.supports && l.supports("modulepreload")) return; for (const e of document.querySelectorAll('link[rel="modulepreload"]')) o(e); new MutationObserver(e => { for (const t of e) if (t.type === "childList") for (const d of t.addedNodes) d.tagName === "LINK" && d.rel === "modulepreload" && o(d) }).observe(document, { childList: !0, subtree: !0 }); function i(e) { const t = {}; return e.integrity && (t.integrity = e.integrity), e.referrerpolicy && (t.referrerPolicy = e.referrerpolicy), e.crossorigin === "use-credentials" ? t.credentials = "include" : e.crossorigin === "anonymous" ? t.credentials = "omit" : t.credentials = "same-origin", t } function o(e) { if (e.ep) return; e.ep = !0; const t = i(e); fetch(e.href, t) } })(); let c = !1; const a = document.querySelector("#navlinks"), u = document.querySelector("#hamburger"), n = document.querySelector("#navLayer"), y = [...a.querySelector("ul").children]; function f() { c ? (a.classList.remove("invisible", "scale-90", "opacity-0", "translate-y-"), a.classList.add("!visible", "!scale-100", "!opacity-100", "!lg:translate-y-0"), u.classList.add("toggled"), n.classList.remove("origin-bottom", "scale-y-0"), n.classList.add("origin-top", "scale-y-100")) : (a.classList.remove("!visible", "!scale-100", "!opacity-100", "!lg:translate-y-0"), a.classList.add("invisible", "scale-90", "opacity-0", "translate-y-"), u.classList.remove("toggled"), n.classList.remove("origin-top", "scale-y-100"), n.classList.add("origin-bottom", "scale-y-0")) } u.addEventListener("click", () => { c = !c, f() }); y.forEach(s => { s.addEventListener("click", () => { c = !c, f() }) }); const r = document.querySelectorAll(".faq"); for (let s = 0; s < r.length; s++) { const l = r[s].querySelector(".faq-answer"), i = r[s].querySelector(".arrow-down"); r[s].addEventListener("click", () => { for (let o = 0; o < r.length; o++) { const e = r[o].querySelector(".faq-answer"), t = r[o].querySelector(".arrow-down"); r[s] != r[o] && (e.style.maxHeight = "0px", t.classList.replace("rotate-180", "rotate-0")) } i.classList.contains("rotate-180") ? (l.style.maxHeight = 0 + "px", i.classList.replace("rotate-180", "rotate-0")) : (l.style.maxHeight = l.scrollHeight + "px", i.classList.replace("rotate-0", "rotate-180")) }) }
+    </script>
+
 </body>
 
 </html>
