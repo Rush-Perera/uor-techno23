@@ -124,7 +124,6 @@ include "functions/functions.php";
 
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["department_name"] ?>
 
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc"><?php echo $program["main_topic"] ?>
 
                                     </h3>
                                     <p class="c4dav cabeq cwx0r"><?php echo $program["department_description"] ?></p>
@@ -151,6 +150,53 @@ include "functions/functions.php";
             <!-- Projects list header -->
             <section>
                 <div class="c910c c82l3 ckx8h cl9xt csj8y">
+                <div class="cw4bu aos-init aos-animate" data-aos="fade-down" style="--mouse-x: 523.2265014648438px; --mouse-y: 14.394500732421875px;">
+                                    <div class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                                                <stop offset="100%" stop-color="#6366F1" stop-opacity="0" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd" d="m104 .827 461 369-284 58z" transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <div class="cd3pv clm9l cj9ju ck1c9 cbati cx3hx c6prr c3ztf c22q0 cht4j c7n90 c16i7" aria-hidden="true">
+                                                    <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                                                    <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                                                </div>
+    
+    
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">Optimized for security</h3>
+                                                            <p class="cwx0r">Optimize for user experience and privacy. Use social login integrations, lower user friction, incorporate rich user profiling, and facilitate more transactions.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" href="#0">
+                                                            <span class="c910c cex2t c7n90">
+                                                                Learn more <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb c0l3r cqkfc cbwl6">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4" src="./images/feature-image-01.png" width="504" height="400" alt="Feature 01">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 
                     <!-- Particles animation -->
                     <div class="clm9l crjl7 c82l3 ckx8h cl9xt csj8y">

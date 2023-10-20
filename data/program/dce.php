@@ -1,7 +1,6 @@
 <?php
 $program =  array (
 
-
     "department_name" => "Computer Engineering",
     "department_description" => "The Department of Computer Engineering was launched in 2020, offering Bachelor of Science in Engineering Honors degree to 200 students per batch. Our program provides specialization options in Software Engineering, Machine Learning, Cyber Security and Networking engineering and Electronics and Embedded Systems Engineering.",
     "project1" =>"",
@@ -29,8 +28,6 @@ $program =  array (
     "society3_image" =>"",
 
     "postgraduate_oppotunities" =>"Computer engineering students have diverse career prospects, including data science, software engineering, and more. Graduates can also pursue postgraduate studies (MEng, MSc, MPhil, DEng, or PhD) at the University of Ruhuna or globally.",
-
-    "main_topic" => "Earthygreen Eco"
 
 
 );
