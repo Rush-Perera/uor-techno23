@@ -150,8 +150,29 @@ include "functions/functions.php";
             <!-- Projects list header -->
             <section>
                 <div class="c910c c82l3 ckx8h cl9xt csj8y">
-                <div class="cw4bu aos-init aos-animate" data-aos="fade-down" style="--mouse-x: 523.2265014648438px; --mouse-y: 14.394500732421875px;">
-                                    <div class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                    
+
+                    <!-- Particles animation -->
+                    <div class="clm9l crjl7 c82l3 ckx8h cl9xt csj8y">
+                        <div class="clm9l crjl7 cbati" aria-hidden="true">
+                            <canvas data-particle-animation="" data-particle-quantity="5"></canvas>
+                        </div>
+                    </div>
+
+                    <?php 
+                    if($program["project_count"] > 0){
+?>
+                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc cv4rp">Recent Research And Projects</h3>
+
+<?php
+                    }
+                    ?>
+
+                    <!--Project 1-->
+                    <?php 
+                        for ($i = 1; $i <= $program["project_count"]; $i++) {
+?>
+<div class="cvgrh c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
                                         <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
                                             <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
                                                 <!-- Blurred shape -->
@@ -177,12 +198,12 @@ include "functions/functions.php";
                                                 <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
                                                     <div class="c0o0c">
                                                         <div>
-                                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">Optimized for security</h3>
-                                                            <p class="cwx0r">Optimize for user experience and privacy. Use social login integrations, lower user friction, incorporate rich user profiling, and facilitate more transactions.</p>
+                                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project".$i.""] ?></h3>
+                                                            <p class="cwx0r"><?php echo $program["project".$i."_description"] ?></p>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" href="#0">
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" href="project.php?project=dmmeP1">
                                                             <span class="c910c cex2t c7n90">
                                                                 Learn more <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
                                                             </span>
@@ -191,122 +212,18 @@ include "functions/functions.php";
                                                 </div>
                                                 <!-- Image -->
                                                 <div class="c910c cdrsb c0l3r cqkfc cbwl6">
-                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4" src="./images/feature-image-01.png" width="504" height="400" alt="Feature 01">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4" src='<?php echo $program["project".$i."_image"] ?>' width="504" height="400" alt="Feature 01">
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+<?php
+                        }
+                    ?>
+                                    
+                          
 
-                    <!-- Particles animation -->
-                    <div class="clm9l crjl7 c82l3 ckx8h cl9xt csj8y">
-                        <div class="clm9l crjl7 cbati" aria-hidden="true">
-                            <canvas data-particle-animation="" data-particle-quantity="5"></canvas>
-                        </div>
-                    </div>
-
-                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Recent Research And Projects
-                    </h3>
-
-                    <!--Project 1-->
-                    <div class="cegmx" data-aos="fade-down">
-                        <div class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
-                            <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                <div class="cx3hx c1yb0">
-                                    <!-- Radial gradient -->
-                                    <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr cp4qc c22q0 cht4j" aria-hidden="true">
-                                        <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cdhkg"></div>
-                                    </div>
-                                    <!-- Text -->
-                                    <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
-                                        <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project1"] ?></h3>
-                                            <p class="cwx0r"><?php echo $program["project1_description"] ?></p>
-                                        </div>
-                                    </div>
-                                    <!-- Image -->
-                                    <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project1_image"] ?> width="536" height="230" alt="Feature 02">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Project 1-->
-                    <div class="cegmx" data-aos="fade-down" style="margin-top: 40px;">
-                        <div class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
-                            <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                <div class="cx3hx c1yb0">
-                                    <!-- Radial gradient -->
-                                    <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr cp4qc c22q0 cht4j" aria-hidden="true">
-                                        <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cdhkg"></div>
-                                    </div>
-                                    <!-- Text -->
-                                    <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
-                                        <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project2"] ?></h3>
-                                            <p class="cwx0r"><?php echo $program["project2_description"] ?></p>
-                                        </div>
-                                    </div>
-                                    <!-- Image -->
-                                    <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project2_image"] ?> width="536" height="230" alt="Feature 02">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Project 2-->
-                    <div class="cegmx" data-aos="fade-down" style="margin-top: 40px;">
-                        <div class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
-                            <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                <div class="cx3hx c1yb0">
-                                    <!-- Radial gradient -->
-                                    <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr cp4qc c22q0 cht4j" aria-hidden="true">
-                                        <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cdhkg"></div>
-                                    </div>
-                                    <!-- Text -->
-                                    <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
-                                        <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project3"] ?></h3>
-                                            <p class="cwx0r"><?php echo $program["project3_description"] ?></p>
-                                        </div>
-                                    </div>
-                                    <!-- Image -->
-                                    <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project3_image"] ?> width="536" height="230" alt="Feature 02">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Project 3-->
-                    <div class="cegmx" data-aos="fade-down" style="margin-top: 40px;">
-                        <div class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
-                            <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                <div class="cx3hx c1yb0">
-                                    <!-- Radial gradient -->
-                                    <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr cp4qc c22q0 cht4j" aria-hidden="true">
-                                        <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cdhkg"></div>
-                                    </div>
-                                    <!-- Text -->
-                                    <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t">
-                                        <div>
-                                            <h3 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc"><?php echo $program["project4"] ?></h3>
-                                            <p class="cwx0r"><?php echo $program["project4_description"] ?></p>
-                                        </div>
-                                    </div>
-                                    <!-- Image -->
-                                    <div class="c910c cdrsb c0l3r cqkfc cbwl6 ccp8y">
-                                        <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4" src=<?php echo $program["project4_image"] ?> width="536" height="230" alt="Feature 02">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+       
                 
                 </div>
             </section>
@@ -329,7 +246,11 @@ include "functions/functions.php";
                         <div class="testimonials-carousel swiper-container car0u">
                             <div class="swiper-wrapper cdfzo" data-highlighter="">
                                 <!-- Carousel items -->
-                                <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+
+                                <?php 
+                                for ($i = 1; $i <= $program["society_count"]; $i++) {
+?>
+<div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
                                     <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
                                         <!-- Particles animation -->
                                         <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
@@ -340,10 +261,10 @@ include "functions/functions.php";
                                             <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
                                         </div>
                                         <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src=<?php echo $program["society1_image"] ?> width="56" height="56" alt="Icon 01">
+                                            <img class="ca0bb" src=<?php echo $program["society".$i."_image"] ?> width="56" height="56" alt="Icon 01">
                                             <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society1"] ?></div>
-                                                <div class="ca0bb cwx0r"><?php echo $program["society1_description"] ?></div>
+                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society".$i.""] ?></div>
+                                                <div class="ca0bb cwx0r"><?php echo $program["society".$i."_description"] ?></div>
                                             </div>
                                             <div class="cbtot">
                                                 <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
@@ -351,94 +272,11 @@ include "functions/functions.php";
                                         </div>
                                     </div>
                                 </div> 
-                                <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                    <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                        <!-- Particles animation -->
-                                        <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
-                                            <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
-                                        </div>                                            
-                                        <!-- Radial gradient -->
-                                        <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
-                                            <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
-                                        </div>
-                                        <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src=<?php echo $program["society2_image"] ?> width="56" height="56" alt="Icon 01">
-                                            <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society2"] ?></div>
-                                                <div class="ca0bb cwx0r"><?php echo $program["society2_description"] ?></div>
-                                            </div>
-                                            <div class="cbtot">
-                                                <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                    <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                        <!-- Particles animation -->
-                                        <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
-                                            <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
-                                        </div>                                            
-                                        <!-- Radial gradient -->
-                                        <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
-                                            <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
-                                        </div>
-                                        <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src=<?php echo $program["society3_image"] ?> width="56" height="56" alt="Icon 01">
-                                            <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy"><?php echo $program["society3"] ?></div>
-                                                <div class="ca0bb cwx0r"><?php echo $program["society3_description"] ?></div>
-                                            </div>
-                                            <div class="cbtot">
-                                                <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                    <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                        <!-- Particles animation -->
-                                        <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
-                                            <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
-                                        </div>                                            
-                                        <!-- Radial gradient -->
-                                        <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
-                                            <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
-                                        </div>
-                                        <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src="images/carousel-icon-04.svg" width="56" height="56" alt="Icon 01">
-                                            <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy">Progressive Profiling</div>
-                                                <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
-                                            </div>
-                                            <div class="cbtot">
-                                                <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                    <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
-                                        <!-- Particles animation -->
-                                        <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
-                                            <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
-                                        </div>
-                                        <!-- Radial gradient -->
-                                        <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
-                                            <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
-                                        </div>
-                                        <div class="cx3hx c3ztf c1yb0 c47li">
-                                            <img class="ca0bb" src="images/carousel-icon-05.svg" width="56" height="56" alt="Icon 05">
-                                            <div class="cmm3x">
-                                                <div class="cnc21 cabeq c0hcy">Secure Access</div>
-                                                <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
-                                            </div>
-                                            <div class="cbtot">
-                                                <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+<?php
+                                }
+                                ?>
+                                
+                                
                             </div>
                         </div>
                     </div>
