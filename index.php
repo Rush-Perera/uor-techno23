@@ -602,7 +602,7 @@ include "functions/functions.php";
                                                 <!-- Image -->
                                                 <div class="c910c cdrsb c0l3r cqkfc cbwl6">
                                                     <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
-                                                        src="images/project1.png" width="100%" height="400"
+                                                        src="images/home_dept/dce_feature.png" width="100%" height="400"
                                                         alt="Feature 01">
                                                 </div>
                                             </div>
@@ -664,7 +664,7 @@ include "functions/functions.php";
                                                 <!-- Image -->
                                                 <div class="c910c cdrsb c0l3r cqkfc cbwl6">
                                                     <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
-                                                        src="images/project2.png" width="100%" height="400"
+                                                        src="images/home_dept/deie_feature.png" width="100%" height="400"
                                                         alt="Feature 01">
                                                 </div>
                                             </div>
@@ -726,7 +726,7 @@ include "functions/functions.php";
                                                 <!-- Image -->
                                                 <div class="c910c cdrsb c0l3r cqkfc cbwl6">
                                                     <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
-                                                        src="images/feature-image-01.png" width="504" height="400"
+                                                        src="images/home_dept/dmme_feature.png" width="504" height="400"
                                                         alt="Feature 01">
                                                 </div>
                                             </div>
@@ -788,7 +788,7 @@ include "functions/functions.php";
                                                 <!-- Image -->
                                                 <div class="c910c cdrsb c0l3r cqkfc cbwl6">
                                                     <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
-                                                        src="images/4.png" width="100%" height="400" alt="Feature 01">
+                                                        src="images/home_dept/dcee_feature.png" width="100%" height="400" alt="Feature 01">
                                                 </div>
                                             </div>
                                         </div>
@@ -849,7 +849,7 @@ include "functions/functions.php";
                                                 <!-- Image -->
                                                 <div class="c910c cdrsb c0l3r cqkfc cbwl6">
                                                     <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
-                                                        src="images/4.png" width="100%" height="400" alt="Feature 01">
+                                                        src="images/home_dept/dmena_feature.png" width="100%" height="400" alt="Feature 01">
                                                 </div>
                                             </div>
                                         </div>
@@ -921,32 +921,32 @@ include "functions/functions.php";
                                 <div class="swiper-wrapper cj3zd c7n90 c39mk">
                                     <!-- Carousel items -->
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society1.svg" alt="Client 01" width="110" height="21">
+                                        <img src="images/society/society1.svg" alt="Client 01" width="110" height="21">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society2.svg" alt="Client 02" width="70" height="25">
+                                        <img src="images/society/society2.svg" alt="Client 02" width="70" height="25">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img class="c7798" src="images/society3.svg" alt="Client 03" width="107"
+                                        <img class="c7798" src="images/society/society3.svg" alt="Client 03" width="107"
                                             height="33">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society4.svg" alt="Client 04" width="85" height="36">
+                                        <img src="images/society/society4.svg" alt="Client 04" width="85" height="36">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society1.svg" alt="Client 05" width="86" height="18">
+                                        <img src="images/society/society1.svg" alt="Client 05" width="86" height="18">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society2.svg" alt="Client 06" width="78" height="34">
+                                        <img src="images/society/society2.svg" alt="Client 06" width="78" height="34">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society3.svg" alt="Client 07" width="83" height="23">
+                                        <img src="images/societysociety3.svg" alt="Client 07" width="83" height="23">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img src="images/society4.svg" alt="Client 08" width="98" height="26">
+                                        <img src="images/societysociety4.svg" alt="Client 08" width="98" height="26">
                                     </div>
                                     <div class="swiper-slide cbhsw">
-                                        <img class="ce37d" src="images/society1.svg" alt="Client 09" width="92"
+                                        <img class="ce37d" src="images/societysociety1.svg" alt="Client 09" width="92"
                                             height="28">
                                     </div>
                                 </div>
