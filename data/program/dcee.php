@@ -29,10 +29,10 @@ $program =  array(
 
     "project4_description" => "The efficiency and effectiveness of transport infrastructure is directly correlated to a growing economy. The proposed design of an expressway infused with a multi- modal hub is expected to impact the economy of the country in a positive way.",
 
-    "project1_image" => "images/dcee_P1I1.webp",
-    "project2_image" => "images/dcee_P2I1.webp",
-    "project3_image" => "images/dcee_P3I1.webp",
-    "project4_image" => "images/dcee_P4I1.webp",
+    "project1_image" => "images/home_projects/dcee_P1I1_home.png",
+    "project2_image" => "images/home_projects/dcee_P2I2_home.png",
+    "project3_image" => "images/home_projects/dcee_P3I1_home.png",
+    "project4_image" => "images/home_projects/dcee_P4I1_home.png",
 
   
 

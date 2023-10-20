@@ -22,9 +22,9 @@ $program =  array (
     ",
     "project3_description" =>"This research investigates the impact of infusion parameters on the structural properties of polymer matrix composites. It focuses on modifying apparatus for test specimen fabrication and cutting. The goal is to improve the understanding of how infusion parameters affect composite properties and enhance manufacturing processes.",
 
-    "project1_image" =>"images/dce_pi_1.webp ",
-    "project2_image" =>"images/dce_pi_2.webp ",
-    "project3_image" =>"images/dce_pi_3.webp ",
+    "project1_image" => "images/home_projects/dmme_P1I1_home.png",
+    "project2_image" => "images/home_projects/dmme_P2I1_home.png",
+    "project3_image" => "images/home_projects/dmme_P3I1_home.png",
 
     "society1" =>"MMESS",
     "society1_description" =>"Society 1 Description",
