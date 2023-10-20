@@ -114,7 +114,7 @@ include "functions/functions.php";
                                 <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
                                     <!-- Content #1 -->
 
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb">Project Raptor</h3>
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb"><?php echo $program["project".$i."_image"] ?></h3>
                                     <div class="c66wr c4dav" data-aos="fade-down">
                                         <div class="c910c cex2t c85im c3tia c78uy cdqpw">
                                             <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u"

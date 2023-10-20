@@ -1,7 +1,7 @@
 <?php
 $program =  array (
 
-    "department_name" => "Computer Engineering",
+    "department_name" => "Electrical and Information Engineering",
     "department_description" => "Department of the Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna. Is located at Hapugala nearby the beautiful coastal city, Galle, in the Southern province of Sri Lanka.
     From its inception in the Year 2000, the Department of Electrical and Information Engineering has become a regional plus national hub for innovation, research excellence, and community services in the country. The Department has already produced 850 graduates and these graduates hold key positions in both Industry and Academia, not only in Sri Lanka even in many other countries of the globe.
     
