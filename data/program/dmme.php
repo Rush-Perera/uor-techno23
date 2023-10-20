@@ -1,7 +1,7 @@
 <?php
 $program =  array (
 
-    "department_name" => "Computer Engineering",
+    "department_name" => "Mechanical and Manufacturing Engineering",
     "department_description" => "The University of Ruhuna's Department of Mechanical and Manufacturing Engineering offers a B.Sc. in MME program with four key specializations. It includes core and elective modules covering engineering science, design, management, and humanities. Four key sub-divisions are,
     1.	Materials and Manufacturing Engineering
     2.	Thermal and Fluid Engineering
