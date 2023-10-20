@@ -7,13 +7,12 @@ include "functions/functions.php";
 
 <head>
     <meta charset="utf-8">
-    <title>Contact - FOE-UOR | Techno 2023</title>
+    <title>FOE-UOR | Techno 2023</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link href="css/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link href="css/home.css" rel="stylesheet">
     <link href="css/header-home.css" rel="stylesheet">
-    <link href="css/contact.css" rel="stylesheet">
     <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script>
 </head>
 
@@ -103,28 +102,26 @@ include "functions/functions.php";
                         </div>
                     </div>
 
-                    <div class="cy2cl clflm c4qa9 ">
+                    <div class="cy2cl clflm c4qa9 c1gox">
 
                         <!-- Hero content -->
                         <div class="c82l3 cxe5f cst88">
 
-                            <h1 class="cmbrg cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc" data-aos="fade-down">Contact Us
-                            </h1>
+                            <h1 class="cmbrg cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc" data-aos="fade-down">Faculty of
+                                Engineering</h1>
 
-                            <div>
-                                <a class="ccr9i c0l3r cxs0p cejt7 c2wc5 cqlg5 cl1vv cl17h c4znw c4a6x" href="#0">
-                                    <svg class="cry3f c7f0g cjig1" xmlns="http://www.w3.org/2000/svg" width="16"
-                                        height="16">
-                                        <path
-                                            d="m1.999 0 1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 0l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 10l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM6.292 7.586l2.646-2.647L11.06 7.06 8.413 9.707zM0 13.878l5.586-5.586 2.122 2.121L2.12 16z">
-                                        </path>
-                                    </svg>
-                                    <span>Faculty of Engineering - University of Ruhuna</span>
-                                </a>
-                            </div>
+                                <div>
+                                    <a class="ccr9i c0l3r cxs0p cejt7 c2wc5 cqlg5 cl1vv cl17h c4znw c4a6x" href="#0">
+                                        <svg class="cry3f c7f0g cjig1" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+                                            <path d="m1.999 0 1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 0l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 10l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM6.292 7.586l2.646-2.647L11.06 7.06 8.413 9.707zM0 13.878l5.586-5.586 2.122 2.121L2.12 16z"></path>
+                                        </svg>
+                                        <span>University of Ruhuna</span>
+                                    </a>
+                                </div>
 
 
 
+                            <p class="c4dav cabeq cvgqz" data-aos="fade-down" data-aos-delay="200">The Faculty of Engineering of University of Ruhuna was established on 1st July 1999 at Hapugala, Galle. First batch of students was admitted on 27th March 2000. Admission to the Faculty of Engineering, University of Ruhuna, is subject to the University Grants Commission policy on university admissions. The present annual intake to the Faculty is 530. The Faculty of Engineering offers full-time courses leading to the Degree of Bachelor of the Science of Engineering Honors (B.Sc.Eng.Hons.), which is accredited by the Institution of Engineers, Sri Lanka (IESL).</p>
 
 
                         </div>
@@ -133,18 +130,184 @@ include "functions/functions.php";
                 </div>
             </section>
 
+            <!-- Testimonials carousel -->
+            <section>    
+                <div class="c82l3 ckx8h cl9xt csj8y">
+                    <div class="c26gy cervq">
+            
+                        <!-- Section header -->
+                        <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
+                            <div>
+                                <div class="cex2t cyvm0 cpkpj clbdw cnu2b cvbxf c1xbd c3btc">The security first platform</div>
+                            </div>
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">What we've done so far</h2>
+                            <p class="cabeq cwx0r">All the lorem ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
+                        </div>
+            
+                        <!-- Carousel built with Swiper.js [https://swiperjs.com/] -->
+                        <!-- * Initialized in src/js/main.js -->
+                        <!-- * Custom styles in src/css/additional-styles/theme.scss -->
+                        <div class="c910c c85im c3tia c1qoc cg349 c3ud2 cstoe cacen cho2n croff cuwru c0fcr cz26n co83o ch9nl c3inc cdwz0">
+                            <div class="testimonials-carousel swiper-container car0u">
+                                <div class="swiper-wrapper cdfzo" data-highlighter="">
+                                    <!-- Carousel items -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" src="images/projects.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">
+                                                
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Anonymous User</div>
+                                                    <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" src="images/projects.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">
+                                                
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Anonymous User</div>
+                                                    <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" src="images/projects.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">
+                                                
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Anonymous User</div>
+                                                    <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" src="images/projects.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">
+                                                
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Anonymous User</div>
+                                                    <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" src="images/projects.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">
+                                                
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Anonymous User</div>
+                                                    <div class="ca0bb cwx0r">Incorporate rich user profiling, and facilitate more transactions.</div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Arrows -->
+                        <div class="cv4rp cx3hx csqfb">
+                            <button class="carousel-prev c910c c8yyj cx3hx cn1b5 cgyy1 c7n90 c16i7 car0u">
+                                <span class="cocd1">Previous</span>
+                                <svg class="cx7b5 cwppz c7h3f cqlg5 cl1vv cl17h cmcgw" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.7 14.7l1.4-1.4L3.8 9H16V7H3.8l4.3-4.3-1.4-1.4L0 8z"></path>
+                                </svg>
+                            </button>
+                            <button class="carousel-next c910c c8yyj cx3hx cn1b5 cgyy1 c7n90 c16i7 car0u">
+                                <span class="cocd1">Next</span>
+                                <svg class="cx7b5 cwppz c7h3f cqlg5 cl1vv cl17h cmcgw" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M9.3 14.7l-1.4-1.4L12.2 9H0V7h12.2L7.9 2.7l1.4-1.4L16 8z"></path>
+                                </svg>
+                            </button>
+                        </div>
+            
+                    </div>
+                </div>
+            </section>
+
+            <!-- Features #2 -->
             <section class="c910c">
 
                 <!-- Particles animation -->
                 <div class="clm9l ck1c9 cto33 cbati ct1az c9aya cstld c82cr c22q0">
                     <div class="clm9l crjl7 cbati" aria-hidden="true">
-                        <canvas data-particle-animation="" data-particle-quantity="6" data-particle-staticity="30"
-                            width="370" height="370" style="width: 340px; height: 340px;"></canvas>
+                        <canvas data-particle-animation="" data-particle-quantity="6"
+                            data-particle-staticity="30"></canvas>
                     </div>
                 </div>
 
                 <div class="c82l3 ckx8h cl9xt csj8y">
                     <div class="c9b6d cq2hq">
+
+                        <!-- Section header -->
+                        <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Degree Programs</h2>
+                        </div>
 
                         <!-- Highlighted boxes -->
                         <div class="c910c ch0mu c6ftu">
@@ -153,22 +316,18 @@ include "functions/functions.php";
                                 <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
                                     <defs>
                                         <linearGradient id="bs2-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
-                                            <stop offset="0%" stop-color="#6366F1" data-darkreader-inline-stopcolor=""
-                                                style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
-                                            <stop offset="100%" stop-color="#6366F1" stop-opacity="0"
-                                                data-darkreader-inline-stopcolor=""
-                                                style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                            <stop offset="0%" stop-color="#6366F1"></stop>
+                                            <stop offset="100%" stop-color="#6366F1" stop-opacity="0"></stop>
                                         </linearGradient>
                                     </defs>
                                     <path fill="url(#bs2-a)" fill-rule="evenodd" d="m346 898 461 369-284 58z"
                                         transform="translate(-346 -898)"></path>
                                 </svg>
                             </div>
-                            <!-- Grid -->
+                            <!-- Grid Degree Programs -->
                             <div class="cb706 c5v3q car0u c3wfo" data-highlighter="">
-                                <!-- Box #1 -->
-                                <div class="cw4bu aos-init aos-animate" data-aos="fade-down"
-                                    style="--mouse-x: 528.2448425292969px; --mouse-y: 40.4151611328125px;">
+                                <!-- Box #1- COMPUTER ENGINEERING -->
+                                <div class="cw4bu" data-aos="fade-down">
                                     <div
                                         class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
                                         <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
@@ -179,14 +338,74 @@ include "functions/functions.php";
                                                         <defs>
                                                             <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
                                                                 y2="100%">
-                                                                <stop offset="0%" stop-color="#6366F1"
-                                                                    data-darkreader-inline-stopcolor=""
-                                                                    style="--darkreader-inline-stopcolor: #0d0f8c;">
-                                                                </stop>
+                                                                <stop offset="0%" stop-color="#6366F1"></stop>
                                                                 <stop offset="100%" stop-color="#6366F1"
-                                                                    stop-opacity="0" data-darkreader-inline-stopcolor=""
-                                                                    style="--darkreader-inline-stopcolor: #0d0f8c;">
-                                                                </stop>
+                                                                    stop-opacity="0"></stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd"
+                                                            d="m104 .827 461 369-284 58z"
+                                                            transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <!-- Illustration -->
+                                                <div class="cd3pv clm9l crjl7 cbati c0n2e cqkfc cifrt"
+                                                    aria-hidden="true">
+                                                    <div class="clm9l cj9ju ck1c9 cbati c22q0">
+                                                        <img src="images/glow-bottom.svg" class="cl1mx" width="2146"
+                                                            height="774" alt="Hero Illustration">
+                                                    </div>
+                                                </div>
+
+
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3
+                                                                class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
+                                                                Computer Engineering</h3>
+                                                            <p class="cwx0r">Computer Engineering degree program
+                                                                description goes here</p>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90">
+                                                                Learn more <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb c0l3r cqkfc cbwl6">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
+                                                        src="images/project1.png" width="100%" height="400"
+                                                        alt="Feature 01">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Box #2- ELECTRICAL ENGINEERING -->
+                                <div class="cw4bu" data-aos="fade-down">
+                                    <div
+                                        class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
+                                                                y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1"></stop>
+                                                                <stop offset="100%" stop-color="#6366F1"
+                                                                    stop-opacity="0"></stop>
                                                             </linearGradient>
                                                         </defs>
                                                         <path fill="url(#bs-a)" fill-rule="evenodd"
@@ -203,53 +422,215 @@ include "functions/functions.php";
 
 
                                                 <!-- Text -->
-                                                <div class="clx9g c7f0g c47li cls9d chb5s cha6t cxsq4">
+                                                <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
                                                     <div class="c0o0c">
                                                         <div>
                                                             <h3
                                                                 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
-                                                                Address</h3>
-                                                            <p class="cwx0r">Faculty of Engineering, <br>University of
-                                                                Ruhuna <br>Hapugala,<br>
-                                                                Galle, <br>Sri Lanka 80000</p>
+                                                                Electrical & Infomation Engineering</h3>
+                                                            <p class="cwx0r">Electrical & Infomation Engineering degree
+                                                                program description goes here</p>
                                                         </div>
-                                                    </div>
-                                                    <div class="cgbi5">
-                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
-                                                            href="#0">
-                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
-                                                                Phone :+(94)912245765/66 <span
-                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                    <div class="cgbi5">
-                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
-                                                            href="#0">
-                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
-                                                                Fax :+(94)912245762 <span
-                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
-                                                            </span>
-                                                        </a>
                                                     </div>
                                                     <div>
                                                         <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
                                                             href="#0">
-                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
-                                                                Email :ar [AT] eng.ruh.ac.lk <span
+                                                            <span class="c910c cex2t c7n90">
+                                                                Learn more <span
                                                                     class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
                                                             </span>
                                                         </a>
                                                     </div>
                                                 </div>
                                                 <!-- Image -->
-                                                <div class="c910c cdrsb  cqkfc cbwl6">
-                                                    <iframe
-                                                        class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4"
-                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.380118257471!2d80.18938967547578!3d6.079373728164024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae1714b88f66a7b%3A0x8a7feea89839a01a!2zRmFjdWx0eSBvZiBFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBSdWh1bmEgKOC2ieC2guC2ouC3kuC2seC3muC2u-C3lCDgtrTgt5PgtqjgtrosIOC2u-C3lOC3hOC3lOC2q-C3lCDgt4Dgt5Lgt4Hgt4rgt4Dgt4Dgt5Lgtq_gt4rigI3gtrrgt4_gtr3gtros4LeE4La04LeU4Lac4La9ICk!5e0!3m2!1sen!2slk!4v1697733637113!5m2!1sen!2slk"
-                                                        width="600" height="450" style="border:0;" allowfullscreen=""
-                                                        loading="lazy"
-                                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                <div class="c910c cdrsb c0l3r cqkfc cbwl6">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
+                                                        src="images/project2.png" width="100%" height="400"
+                                                        alt="Feature 01">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Box #3- MECHANICAL ENGINEERING -->
+                                <div class="cw4bu" data-aos="fade-down">
+                                    <div
+                                        class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
+                                                                y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1"></stop>
+                                                                <stop offset="100%" stop-color="#6366F1"
+                                                                    stop-opacity="0"></stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd"
+                                                            d="m104 .827 461 369-284 58z"
+                                                            transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <div class="cd3pv clm9l cj9ju ck1c9 cbati cx3hx c6prr c3ztf c22q0 cht4j c7n90 c16i7"
+                                                    aria-hidden="true">
+                                                    <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                                                    <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                                                </div>
+
+
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3
+                                                                class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
+                                                                Mechanical & Manufacturing Engineering</h3>
+                                                            <p class="cwx0r">Mechanical & Manufacturing Engineering
+                                                                degree program description goes here</p>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90">
+                                                                Learn more <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb c0l3r cqkfc cbwl6">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
+                                                        src="images/feature-image-01.png" width="504" height="400"
+                                                        alt="Feature 01">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Box #4- CIVIL ENGINEERING -->
+                                <div class="cw4bu" data-aos="fade-down">
+                                    <div
+                                        class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
+                                                                y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1"></stop>
+                                                                <stop offset="100%" stop-color="#6366F1"
+                                                                    stop-opacity="0"></stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd"
+                                                            d="m104 .827 461 369-284 58z"
+                                                            transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <div class="cd3pv clm9l cj9ju ck1c9 cbati cx3hx c6prr c3ztf c22q0 cht4j c7n90 c16i7"
+                                                    aria-hidden="true">
+                                                    <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                                                    <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                                                </div>
+
+
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3
+                                                                class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
+                                                                Civil & Environmental Engineering</h3>
+                                                            <p class="cwx0r">Civil & Environmrntal Engineering degree
+                                                                program description goes here</p>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90">
+                                                                Learn more <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb c0l3r cqkfc cbwl6">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
+                                                        src="images/4.png" width="100%" height="400" alt="Feature 01">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Box #5- MENA ENGINEERING -->
+                                <div class="cw4bu" data-aos="fade-down">
+                                    <div
+                                        class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
+                                                                y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1"></stop>
+                                                                <stop offset="100%" stop-color="#6366F1"
+                                                                    stop-opacity="0"></stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd"
+                                                            d="m104 .827 461 369-284 58z"
+                                                            transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <div class="cd3pv clm9l cj9ju ck1c9 cbati cx3hx c6prr c3ztf c22q0 cht4j c7n90 c16i7"
+                                                    aria-hidden="true">
+                                                    <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                                                    <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                                                </div>
+
+
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cgzap cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3
+                                                                class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
+                                                                Marine Science & Naval Architecture Engineering</h3>
+                                                            <p class="cwx0r">Marine Science & Naval Architecture
+                                                                Engineering degree program description goes here</p>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90">
+                                                                Learn more <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb c0l3r cqkfc cbwl6">
+                                                    <img class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b ci2v4"
+                                                        src="images/4.png" width="100%" height="400" alt="Feature 01">
                                                 </div>
                                             </div>
                                         </div>
@@ -265,61 +646,96 @@ include "functions/functions.php";
                 </div>
             </section>
 
-            <!-- Features #2 -->
-            <section>
-                <div class="c82l3 ckx8h cl9xt csj8y">
-                    <div class="c910c cqkfc c04c5 cevdd c4ok0 cqppu">
-                        <!-- Radial gradient -->
-                        <!-- <div class="cd3pv clm9l ck1c9 cto33 cbati cx3hx c6prr c8t6z c22q0 cwoop c7n90 c16i7" aria-hidden="true">
-                            <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
-                            <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
-                        </div> -->
-                        <!-- Blurred shape -->
-                        <!-- <div class="cd3pv clm9l cj9ju cdelm cbati cht4j c5nt0 cf1fs" aria-hidden="true">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
-                                <defs>
-                                    <linearGradient id="bs5-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
-                                        <stop offset="0%" stop-color="#A855F7"></stop>
-                                        <stop offset="100%" stop-color="#6366F1" stop-opacity="0"></stop>
-                                    </linearGradient>
-                                </defs>
-                                <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)"></path>
-                            </svg>
-                        </div> -->
-                        <!-- Content -->
-                        <div class="c82l3 cxe5f cst88">
-                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">We value your Feedback</h2>
-                            <p class="cabeq cwx0r caxse">Please don't hesitate to provide your valuable feedback to us. Your thoughts and suggestions are invaluable in shaping our platform to better meet your needs and expectations.</p>
-                            <div class="container_text">
-                                <div class="contact-form-wrapper">
-                                    <div class="form-item1">
-                                        <input class="input-item" type="text" name="sender" id="sender" required=""
-                                            placeholder="Name">
-                                    </div>
-                                    <div class="form-item1">
-                                        <input class="input-item" type="email" name="email" id="email" required=""
-                                            placeholder="Email">
-                                    </div>
-                                    <div class="form-item1">
-                                        <textarea class="input-item" name="message" required="" id="message" rows="6"
-                                            placeholder="Message"></textarea>
-                                    </div>
-                                    <div>
-                                        <button
-                                            class="ccr9i cyvm0 cf5ds casm6 cdjur chy5c cqlg5 cl1vv cl17h cs96x car0u"
-                                            onclick="sendMail()">
-                                            Submit <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
 
+<!-- Postgrad oppertunities -->
+<section class="c910c">
+                <div class="c910c c82l3 ckx8h cl9xt csj8y">
 
+                    <!-- Blurred shape -->
+                    <div class="cd3pv clm9l cdelm cto33 cbati cs4t9 c9aya c05st cf1fs" aria-hidden="true">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
+                            <defs>
+                                <linearGradient id="bs4-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
+                                    <stop offset="0%" stop-color="#A855F7"></stop>
+                                    <stop offset="100%" stop-color="#6366F1" stop-opacity="0"></stop>
+                                </linearGradient>
+                            </defs>
+                            <path fill="url(#bs4-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)"></path>
+                        </svg>
+                    </div>
+
+                    <div class="ch0mu c9b6d c6ftu cq2hq">
+            
+                        <!-- Section header -->
+                        <div class="cxe5f ch0mu c6ftu">
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Postgraduate opportunities</h2>
+                            <p class="cabeq cwx0r">Computer engineering students have diverse career prospects, including data science, software engineering, and more. Graduates can also pursue postgraduate studies (MEng, MSc, MPhil, DEng, or PhD) at the University of Ruhuna or globally.</p>
                         </div>
+
+                        
+            
                     </div>
                 </div>
             </section>
 
+            <!-- Societies -->
+            <section>
+                <div class="c910c c82l3 ckx8h cl9xt csj8y">
+
+                    <!-- Particles animation -->
+                    <div class="clm9l crjl7 c82l3 ckx8h cl9xt csj8y">
+                        <div class="clm9l crjl7 cbati" aria-hidden="true">
+                            <canvas data-particle-animation="" data-particle-quantity="5"></canvas>
+                        </div>
+                    </div>
+
+                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Student Societies
+                    </h3>
+
+                    <div class="c4ok0 cps8f">
+                        <div class="cqkfc">
+                            <!-- Carousel built with Swiper.js [https://swiperjs.com/] -->
+                            <!-- * Initialized in src/js/main.js -->
+                            <!-- * Custom styles in src/css/additional-styles/theme.scss -->
+                            <div
+                                class="clients-carousel swiper-container c910c cux88 c85im c3tia cbuia c5hya c33fe cu2ah c90ia croff cuwru cqn3t clpi6 c5vi4 cyuml cxfnm">
+                                <div class="swiper-wrapper cj3zd c7n90 c39mk">
+                                    <!-- Carousel items -->
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society1.svg" alt="Client 01" width="110" height="21">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society2.svg" alt="Client 02" width="70" height="25">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img class="c7798" src="images/society3.svg" alt="Client 03" width="107"
+                                            height="33">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society4.svg" alt="Client 04" width="85" height="36">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society1.svg" alt="Client 05" width="86" height="18">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society2.svg" alt="Client 06" width="78" height="34">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society3.svg" alt="Client 07" width="83" height="23">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img src="images/society4.svg" alt="Client 08" width="98" height="26">
+                                    </div>
+                                    <div class="swiper-slide cbhsw">
+                                        <img class="ce37d" src="images/society1.svg" alt="Client 09" width="92"
+                                            height="28">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
 
 
@@ -500,39 +916,7 @@ include "functions/functions.php";
             setTimeout(showSlides, 2000); // Change image every 2 seconds
         }
 
-        function sendMail() {
 
-
-            var sender = document.getElementById("sender");
-            var email = document.getElementById("email");
-            var message = document.getElementById("message");
-            
-            // Get the form data
-            const formData = new FormData();
-            formData.append("sender", sender.value);
-            formData.append("email", email.value);
-            formData.append("message", message.value);
-
-            sender.value = "";
-            email.value = "";
-            message.value = "";
-
-
-            // Send the data to the PHP script using the fetch API
-            fetch("./forms/sendEmail.php", {
-                method: "POST",
-                body: formData
-            })
-                .then((response) => response.text())
-                .then((data) => {
-                    // Handle the response from the PHP script here
-                    alert("Email sent successfully");
-
-                })
-                .catch((error) => {
-                    console.error("Error:", error);
-                });
-        };
 
 
 
