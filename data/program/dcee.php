@@ -9,7 +9,7 @@ $program =  array(
     "Research_and_Achievements" => "The University of Ruhuna's Civil and Environmental Engineering department collaborates with Sri Lankan industrial organizations, holds the ACEPS annual conference, and has international partnerships with universities like Stavanger, Malmo, Salford, and Tokyo University. The department has won awards.",
 
     "postgraduate_oppotunities" => "Department of Civil and Environmental Engineering offers a diverse range of postgraduate programs for civil engineering graduates. The specialization fields of postgraduate programs are Structural Engineering, Highway and Transportation Engineering, and Water and Environmental Engineering.",
-
+    "short" =>"dcee",
 "project_count" => 4,
 "society_count" => 1,
     "project1" => "Floating city model",

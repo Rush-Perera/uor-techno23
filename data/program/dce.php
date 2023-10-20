@@ -10,6 +10,8 @@ $program =  array (
     "project_count" => 0,
 "society_count" => 3,
 
+"short" =>"dce",
+
 
     "society1" =>"",
     "society1_description" =>"",

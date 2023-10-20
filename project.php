@@ -28,12 +28,12 @@ include "functions/functions.php";
                 <div class="mx-auto max-w-6xl px-6 md:px-12 lg:px-6 xl:px-0">
                     <div class="relative flex flex-wrap items-center justify-between gap-6 py-2 md:gap-0 md:py-4">
                         <div class="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
-                            <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
+                            <!-- <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
 
                                 <img src="images/main_logo.svg" width="60" height="60" />
 
 
-                            </a>
+                            </a> -->
 
                             <div class="relative flex max-h-10 items-center lg:hidden">
                                 <button type="button" aria-label="humburger" id="hamburger" class="relative -mr-6 p-6">
@@ -103,7 +103,7 @@ include "functions/functions.php";
                         </div>
                     </div>
 
-                    <div class="ch0mu c9b6d c6ftu c1gox">
+                    <div class="ch0mu c9b6d c6ftu cq2hq">
 
                         <div x-data="{ tab: '1' }">
 
@@ -114,22 +114,19 @@ include "functions/functions.php";
                                 <div class="clx9g c810o cls9d cxmhg c1812" data-aos="fade-down">
                                     <!-- Content #1 -->
 
-                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb"><?php echo $program["project".$i."_image"] ?></h3>
+                                    <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc ca0bb"><?php echo $project["project_title"] ?></h3>
                                     <div class="c66wr c4dav" data-aos="fade-down">
                                         <div class="c910c cex2t c85im c3tia c78uy cdqpw">
                                             <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u"
                                                 href="#0">
                                                 <span class="c910c cex2t c7n90">
-                                                    Department of Mechanical and Manufacturing Engineering <span
+                                                <?php echo $project["department"] ?> <span
                                                         class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
                                                 </span>
                                             </a>
                                         </div>
                                     </div>
-                                    <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent
-                                        facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam
-                                        morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae
-                                        praesent eu.</p>
+                                    <p class="c4dav cabeq cwx0r"><?php echo $project["project_description"] ?></p>
 
 
                                 </div>
@@ -164,7 +161,7 @@ include "functions/functions.php";
                         <!-- Section header -->
                         <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
                             <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Problem</h2>
-                            <p class="cabeq cwx0r">There are many variations available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            <p class="cabeq cwx0r"><?php echo $project["problem_description"] ?></p>
                         </div>
 
                     </div>
@@ -202,13 +199,10 @@ include "functions/functions.php";
                                     <!-- Content #1 -->
 
                                     <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Procedure</h3>
-                                    <p class="c4dav cabeq cwx0r">Lorem ipsum dolor sit amet consectetur. Praesent
-                                        facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam
-                                        morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae
-                                        praesent eu.</p>
+                                    <p class="c4dav cabeq cwx0r"><?php echo $project["project_procedure_description"] ?></p>
+                                    <!-- <li>point 1 </li> 
                                     <li>point 1 </li> 
-                                    <li>point 1 </li> 
-                                    <li>point 1 </li> 
+                                    <li>point 1 </li>  -->
 
 
                                 </div>
@@ -255,14 +249,12 @@ include "functions/functions.php";
 
                    
 
-                    <div class="ch0mu c9b6d c6ftu">
+                    <!-- <div class="ch0mu c9b6d c6ftu">
 
                         <div x-data="{ tab: '1' }">
                             <h3 class="cqbmj cyvm0 c1wf5 cj15g ctvzo cnu2b cvbxf c3btc">Outcome</h3>
-                            <!-- Section content -->
                             <div class="c82l3 cx3hx cbywq c1yb0 cw977 ckwfp cik1e cxp2a c7lcb cj1ja cc6yz crj76"> 
 
-                                <!-- Image -->
                                 <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
                                     <div class="c910c cx3hx c7n90 c16i7">
                                         <img src="images/projects.png">
@@ -286,7 +278,7 @@ include "functions/functions.php";
 
                         </div>
 
-                    </div>
+                    </div> -->
                 </div>
             </section>
             <section>
@@ -316,8 +308,8 @@ include "functions/functions.php";
                         </div>
                         <!-- Content -->
                         <div class="c82l3 cxe5f cst88">
-                            <p class="c4dav cabeq cwx0r">All the lorem ipsum generators on the Internet tend to repeat
-                                predefined chunks as necessary, making this the first true generator on the Internet.
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">Outcome</h2>
+                            <p class="c4dav cabeq cwx0r"><?php echo $project["project_outcome"] ?>
                             </p>
                         
                         </div>
@@ -331,8 +323,8 @@ include "functions/functions.php";
 
         </main>
 
-        <!-- Site footer -->
-        <footer>
+         <!-- Site footer -->
+         <footer>
             <div class="c82l3 ckx8h cl9xt csj8y">
 
                 <!-- Blocks -->
@@ -345,7 +337,7 @@ include "functions/functions.php";
                                 <div class="cgbi5">
                                     <!-- Logo -->
                                     <a class="c84xd" href="index.html" aria-label="Cruip">
-                                        <img src="images/logo.svg" width="38" height="38" alt="Stellar">
+                                        <img src="images/main_logo.svg" width="38" height="38" alt="Stellar">
                                     </a>
                                 </div>
                                 <div class="crcb7 cvgqz">© Faculty of Engineering, University of Ruhuna<span
@@ -355,35 +347,22 @@ include "functions/functions.php";
                             <!-- Social links -->
                             <ul class="cx3hx">
                                 <li>
-                                    <a class="cx3hx c7n90 c16i7 ckvr2 cqlg5 cl1vv cl17h c8q9c" href="#0"
-                                        aria-label="Twitter">
-                                        <svg class="cv56c c2ntj ck57s" viewBox="0 0 32 32"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <path
-                                                d="m13.063 9 3.495 4.475L20.601 9h2.454l-5.359 5.931L24 23h-4.938l-3.866-4.893L10.771 23H8.316l5.735-6.342L8 9h5.063Zm-.74 1.347h-1.457l8.875 11.232h1.36l-8.778-11.232Z">
-                                            </path>
-                                        </svg>
+                                    <a class="cx3hx c7n90 c16i7 ckvr2 cqlg5 cl1vv cl17h c8q9c" href="https://www.facebook.com/EfacUOR"
+                                        aria-label="Facebook">
+                                        <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 64 64" width="30px" height="30px"><linearGradient id="rhA40cqBlsJ1wx2ZjgJTqa" x1="32.526" x2="32.526" y1="16.627" y2="56.834" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6dc7ff"/><stop offset="1" stop-color="#e6abff"/></linearGradient><path fill="url(#rhA40cqBlsJ1wx2ZjgJTqa)" d="M35.52,38.891h6.729l1.057-6.835H35.52v-3.736c0-2.839,0.928-5.358,3.584-5.358h4.268v-5.966c-0.75-0.101-2.335-0.323-5.332-0.323c-6.258,0-9.926,3.305-9.926,10.834v4.548h-6.433v6.835h6.433v17.788C29.385,56.869,30.676,57,32,57c1.197,0,2.366-0.109,3.52-0.266V38.891z"/><linearGradient id="rhA40cqBlsJ1wx2ZjgJTqb" x1="32" x2="32" y1="58" y2="6" gradientTransform="matrix(1 0 0 -1 0 64)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1a6dff"/><stop offset="1" stop-color="#c822ff"/></linearGradient><path fill="none" stroke="url(#rhA40cqBlsJ1wx2ZjgJTqb)" stroke-miterlimit="10" stroke-width="2" d="M32 7A25 25 0 1 0 32 57A25 25 0 1 0 32 7Z"/></svg>                                    </a>
+                                </li>
+                                <li class="cmk82">
+                                    <a class="cx3hx c7n90 c16i7 ckvr2 cqlg5 cl1vv cl17h c8q9c" href="https://www.linkedin.com/company/faculty-of-engineering-university-of-ruhuna/"
+                                        aria-label="Linkedin">
+                                        
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 64 64" width="30px" height="30px" clip-rule="evenodd"><linearGradient id="SUJNhpmDQDF27Y3OfwgfYa" x1="19" x2="19" y1="24.858" y2="49.041" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#6dc7ff"/><stop offset="1" stop-color="#e6abff"/></linearGradient><path fill="url(#SUJNhpmDQDF27Y3OfwgfYa)" fill-rule="evenodd" d="M22 48L22 26 16 26 16 48 22 48z" clip-rule="evenodd"/><linearGradient id="SUJNhpmDQDF27Y3OfwgfYb" x1="19.382" x2="19.382" y1="15.423" y2="23.341" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#6dc7ff"/><stop offset="1" stop-color="#e6abff"/></linearGradient><path fill="url(#SUJNhpmDQDF27Y3OfwgfYb)" fill-rule="evenodd" d="M19.358,23c2.512,0,4.076-1.474,4.076-3.554 c-0.047-2.126-1.564-3.649-4.028-3.649c-2.465,0-4.076,1.475-4.076,3.601c0,2.08,1.563,3.602,3.981,3.602H19.358L19.358,23z" clip-rule="evenodd"/><linearGradient id="SUJNhpmDQDF27Y3OfwgfYc" x1="37.386" x2="37.386" y1="14.125" y2="49.525" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#6dc7ff"/><stop offset="1" stop-color="#e6abff"/></linearGradient><path fill="url(#SUJNhpmDQDF27Y3OfwgfYc)" fill-rule="evenodd" d="M26.946,48H34V35.911c0-0.648,0.122-1.295,0.313-1.758 c0.52-1.295,1.877-2.635,3.867-2.635c2.607,0,3.821,1.988,3.821,4.901V48h6V35.588c0-6.657-3.085-9.498-7.826-9.498 c-3.886,0-5.124,1.91-6.072,3.91H34v-4h-7.054c0.095,2-0.175,22-0.175,22H26.946z" clip-rule="evenodd"/><linearGradient id="SUJNhpmDQDF27Y3OfwgfYd" x1="32" x2="32" y1="6.5" y2="57.5" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#1a6dff"/><stop offset="1" stop-color="#c822ff"/></linearGradient><path fill="url(#SUJNhpmDQDF27Y3OfwgfYd)" d="M50,57H14c-3.859,0-7-3.141-7-7V14c0-3.859,3.141-7,7-7h36c3.859,0,7,3.141,7,7v36 C57,53.859,53.859,57,50,57z M14,9c-2.757,0-5,2.243-5,5v36c0,2.757,2.243,5,5,5h36c2.757,0,5-2.243,5-5V14c0-2.757-2.243-5-5-5H14z"/></svg>
                                     </a>
                                 </li>
                                 <li class="cmk82">
-                                    <a class="cx3hx c7n90 c16i7 ckvr2 cqlg5 cl1vv cl17h c8q9c" href="#0"
-                                        aria-label="Dev.to">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
-                                            <path class="cv56c c2ntj ck57s"
-                                                d="M12.29 14.3a.69.69 0 0 0-.416-.155h-.623v3.727h.623a.689.689 0 0 0 .416-.156.543.543 0 0 0 .21-.466v-2.488a.547.547 0 0 0-.21-.462ZM22.432 8H9.568C8.704 8 8.002 8.7 8 9.564v12.872A1.568 1.568 0 0 0 9.568 24h12.864c.864 0 1.566-.7 1.568-1.564V9.564A1.568 1.568 0 0 0 22.432 8Zm-8.925 9.257a1.631 1.631 0 0 1-1.727 1.687h-1.657v-5.909h1.692a1.631 1.631 0 0 1 1.692 1.689v2.533ZM17.1 14.09h-1.9v1.372h1.163v1.057H15.2v1.371h1.9v1.056h-2.217a.72.72 0 0 1-.74-.7v-4.471a.721.721 0 0 1 .7-.739H17.1v1.054Zm3.7 4.118c-.471 1.1-1.316.88-1.694 0l-1.372-5.172H18.9l1.058 4.064 1.056-4.062h1.164l-1.378 5.17Z">
-                                            </path>
-                                        </svg>
-                                    </a>
-                                </li>
-                                <li class="cmk82">
-                                    <a class="cx3hx c7n90 c16i7 ckvr2 cqlg5 cl1vv cl17h c8q9c" href="#0"
+                                    <a class="cx3hx c7n90 c16i7 ckvr2 cqlg5 cl1vv cl17h c8q9c" href="https://github.com/Rush-Perera"
                                         aria-label="Github">
-                                        <svg class="cv56c c2ntj ck57s" viewBox="0 0 32 32"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <path
-                                                d="M16 8.2c-4.4 0-8 3.6-8 8 0 3.5 2.3 6.5 5.5 7.6.4.1.5-.2.5-.4V22c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.3.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8.6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.7-3.7 3.9.3.4.6.9.6 1.6v2.2c0 .2.1.5.6.4 3.2-1.1 5.5-4.1 5.5-7.6-.1-4.4-3.7-8-8.1-8z">
-                                            </path>
-                                        </svg>
+                                       
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 64 64" width="30px" height="30px"><linearGradient id="KpzH_ttTMIjq8dhx1zD2pa" x1="30.999" x2="30.999" y1="16" y2="55.342" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#6dc7ff"/><stop offset="1" stop-color="#e6abff"/></linearGradient><path fill="url(#KpzH_ttTMIjq8dhx1zD2pa)" d="M25.008,56.007c-0.003-0.368-0.006-1.962-0.009-3.454l-0.003-1.55 c-6.729,0.915-8.358-3.78-8.376-3.83c-0.934-2.368-2.211-3.045-2.266-3.073l-0.124-0.072c-0.463-0.316-1.691-1.157-1.342-2.263 c0.315-0.997,1.536-1.1,2.091-1.082c3.074,0.215,4.63,2.978,4.694,3.095c1.569,2.689,3.964,2.411,5.509,1.844 c0.144-0.688,0.367-1.32,0.659-1.878C20.885,42.865,15.27,40.229,15.27,30.64c0-2.633,0.82-4.96,2.441-6.929 c-0.362-1.206-0.774-3.666,0.446-6.765l0.174-0.442l0.452-0.144c0.416-0.137,2.688-0.624,7.359,2.433 c1.928-0.494,3.969-0.749,6.074-0.759c2.115,0.01,4.158,0.265,6.09,0.759c4.667-3.058,6.934-2.565,7.351-2.433l0.451,0.145 l0.174,0.44c1.225,3.098,0.813,5.559,0.451,6.766c1.618,1.963,2.438,4.291,2.438,6.929c0,9.591-5.621,12.219-10.588,13.087 c0.563,1.065,0.868,2.402,0.868,3.878c0,1.683-0.007,7.204-0.015,8.402l-2-0.014c0.008-1.196,0.015-6.708,0.015-8.389 c0-2.442-0.943-3.522-1.35-3.874l-1.73-1.497l2.274-0.253c5.205-0.578,10.525-2.379,10.525-11.341c0-2.33-0.777-4.361-2.31-6.036 l-0.43-0.469l0.242-0.587c0.166-0.401,0.894-2.442-0.043-5.291c-0.758,0.045-2.568,0.402-5.584,2.447l-0.384,0.259l-0.445-0.123 c-1.863-0.518-3.938-0.796-6.001-0.806c-2.052,0.01-4.124,0.288-5.984,0.806l-0.445,0.123l-0.383-0.259 c-3.019-2.044-4.833-2.404-5.594-2.449c-0.935,2.851-0.206,4.892-0.04,5.293l0.242,0.587l-0.429,0.469 c-1.536,1.681-2.314,3.712-2.314,6.036c0,8.958,5.31,10.77,10.504,11.361l2.252,0.256l-1.708,1.49 c-0.372,0.325-1.03,1.112-1.254,2.727l-0.075,0.549l-0.506,0.227c-1.321,0.592-5.839,2.162-8.548-2.485 c-0.015-0.025-0.544-0.945-1.502-1.557c0.646,0.639,1.433,1.673,2.068,3.287c0.066,0.19,1.357,3.622,7.28,2.339l1.206-0.262 l0.012,3.978c0.003,1.487,0.006,3.076,0.009,3.444L25.008,56.007z"/><linearGradient id="KpzH_ttTMIjq8dhx1zD2pb" x1="32" x2="32" y1="5" y2="59.167" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#1a6dff"/><stop offset="1" stop-color="#c822ff"/></linearGradient><path fill="url(#KpzH_ttTMIjq8dhx1zD2pb)" d="M32,58C17.663,58,6,46.337,6,32S17.663,6,32,6s26,11.663,26,26S46.337,58,32,58z M32,8 C18.767,8,8,18.767,8,32s10.767,24,24,24s24-10.767,24-24S45.233,8,32,8z"/></svg>
                                     </a>
                                 </li>
                             </ul>
@@ -417,11 +396,8 @@ include "functions/functions.php";
 
                     <!-- 3rd block -->
                     <div class="cp4p0 cywcr cihm4">
-                        <h6 class="ccmhz crcb7 c1xbd c2cw1">Company</h6>
+                        <h6 class="ccmhz crcb7 c1xbd c2cw1">Socities</h6>
                         <ul class="c7axt crcb7">
-                            <li>
-                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">Socities</a>
-                            </li>
                             <li>
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">IEEE</a>
                             </li>
@@ -429,10 +405,13 @@ include "functions/functions.php";
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">EIES</a>
                             </li>
                             <li>
-                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">MMES</a>
+                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">MMESS</a>
                             </li>
                             <li>
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">CEES</a>
+                            </li>
+                            <li>
+                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">IET</a>
                             </li>
                         </ul>
                     </div>
