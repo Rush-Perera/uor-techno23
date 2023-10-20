@@ -5,7 +5,8 @@ $project =  array (
     "department"=>"Department of mechanical and manufacturing engineering",
     "project_description" => "The development of a wave energy convertor inspired by the blow-hole principle is an ongoing project that aims to optimize wave energy conversion, supporting a global shift toward cleaner, more sustainable energy sources, and reducing reliance on fossil fuels.
     ",
-    "project_image" => "dmme_P1i1.webp",
+    "project_image" => "images/home_projects/dmme_P2I1_home.png",
+
 
     "problem_description" => "Global energy crisis prompts exploration of sustainable alternatives. Conventional renewables vary with time and weather, necessitating a continuous source.
     Therefore this sea wave energy convertor is crucial for year-round reliability, ensuring sustained sustainability.

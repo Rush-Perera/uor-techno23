@@ -5,7 +5,8 @@ $project =  array (
     "department"=>"Mechanical and manufacturing engineering",
     "project_description" => "This research investigates the impact of infusion parameters on the structural properties of polymer matrix composites. It focuses on modifying apparatus for test specimen fabrication and cutting. The goal is to improve the understanding of how infusion parameters affect composite properties and enhance manufacturing processes.
     ",
-    "project_image" => "images/dmmep3i1.webp",
+    "project_image" => "images/home_projects/dcee_P3I1_home.png",
+
 
     "problem_description" => "The factory has the problem of incomplete knowledge regarding the mechanical characteristics of composites when combined with various reinforcement components. There is a lack of studies in the industry that integrate the optimization of infusion parameters in VARTM manufacturing.
     ",

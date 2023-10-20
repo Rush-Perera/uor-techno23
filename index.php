@@ -138,10 +138,10 @@ include "functions/functions.php";
                         <!-- Section header -->
                         <div class="c82l3 cxe5f ch0mu cst88 c6ftu">
                             <div>
-                                <div class="cex2t cyvm0 cpkpj clbdw cnu2b cvbxf c1xbd c3btc">The security first platform</div>
+                                <div class="cex2t cyvm0 cpkpj clbdw cnu2b cvbxf c1xbd c3btc">The Leading University in Sri Lanka</div>
                             </div>
                             <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">What we've done so far</h2>
-                            <p class="cabeq cwx0r">All the lorem ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
+                            <p class="cabeq cwx0r">Exploring new possibilities in engineering and technology.</p>
                         </div>
             
                         <!-- Carousel built with Swiper.js [https://swiperjs.com/] -->

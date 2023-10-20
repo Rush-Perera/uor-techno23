@@ -5,7 +5,8 @@ $project =  array(
     "department" => "Civil and Enviornmental Engineering",
     "project_description" => "The structural performance and morphological characteristics of previous concrete reveal valuable insights. Understanding these aspects, including strength, durability, and microstructure, aids in optimizing concrete compositions and construction techniques for enhanced performance and longevity. Detailed analysis offers opportunities for innovation and sustainable practices in the construction industry.
     ",
-    "project_image" => "images/dcee_P2I1.webp",
+    "project_image" => "images/home_projects/dcee_P2I2_home.png",
+
 
     "problem_description" => "Concrete structures can face several issues. Common problems include cracks due to shrinkage or external factors, like seismic activity, which can weaken structural integrity. Environmental factors, such as freeze-thaw cycles and chemical exposure, can cause deterioration. Inadequate maintenance and improper construction techniques can exacerbate these concerns. Over time, corrosion of embedded steel reinforcements can lead to structural instability. Addressing these problems requires proactive maintenance, proper design, and advanced materials to ensure the longevity and safety of concrete structures
     ",
