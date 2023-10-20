@@ -13,7 +13,8 @@ include "functions/functions.php";
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link href="css/projects.css" rel="stylesheet">
     <link href="css/header.css" rel="stylesheet">
-    <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <script src="js/script.js"></script>
 
 </head>
 
@@ -140,7 +141,7 @@ include "functions/functions.php";
                                 <!-- Image -->
                                 <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
                                     <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
+                                        <img src="<?php echo $project["project_image"] ?>">
                                     </div>
                                 </div>
 
@@ -220,7 +221,7 @@ include "functions/functions.php";
                                 <!-- Image -->
                                 <div class="cx3hx c7n90 c16i" data-aos="fade-up" data-aos-delay="100">
                                     <div class="c910c cx3hx c7n90 c16i7">
-                                        <img src="images/projects.png">
+                                        <img src="<?php echo $project["project_image"] ?>">
                                     </div>
                                 </div>
 

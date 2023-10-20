@@ -14,7 +14,8 @@ include "functions/functions.php";
     <link href="css/style.css" rel="stylesheet">
     <link href="css/header.css" rel="stylesheet">
     <link href="css/header-home.css" rel="stylesheet">
-    <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <script src="js/script.js"></script>
 </head>
 
 <body class="cxs0p c8fn4 cqrjt cklvb cb0rx">
