@@ -13,6 +13,7 @@ include "functions/functions.php";
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/header.css" rel="stylesheet">
+    <link href="css/header-home.css" rel="stylesheet">
     <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script>
 </head>
 
@@ -27,44 +28,55 @@ include "functions/functions.php";
                 <div class="mx-auto max-w-6xl px-6 md:px-12 lg:px-6 xl:px-0">
                     <div class="relative flex flex-wrap items-center justify-between gap-6 py-2 md:gap-0 md:py-4">
                         <div class="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
-                            <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
-                                
-                                <img src="images/main_logo.svg" width="60" height="60"/>
+                            <!-- <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
 
-                                
-                            </a>
+                                <img src="images/main_logo.svg" width="60" height="60" />
+
+
+                            </a> -->
 
                             <div class="relative flex max-h-10 items-center lg:hidden">
                                 <button type="button" aria-label="humburger" id="hamburger" class="relative -mr-6 p-6">
-                                    <div aria-hidden="true" id="line" class="m-auto h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300"></div>
-                                    <div aria-hidden="true" id="line2" class="m-auto mt-2 h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300"></div>
+                                    <div aria-hidden="true" id="line"
+                                        class="m-auto h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300">
+                                    </div>
+                                    <div aria-hidden="true" id="line2"
+                                        class="m-auto mt-2 h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300">
+                                    </div>
                                 </button>
                             </div>
                         </div>
-                        <div id="navLayer" aria-hidden="true" class="fixed inset-0 z-10 h-screen w-screen origin-bottom scale-y-0 bg-white/70 backdrop-blur-2xl transition duration-500 dark:bg-gray-900/70 lg:hidden"></div>
-                        <div id="navlinks" class="invisible absolute top-full left-0 z-20 w-full origin-top-right translate-y-1 scale-90 flex-col flex-wrap justify-end gap-6 rounded-3xl border border-gray-100 bg-white p-8 opacity-0 shadow-2xl shadow-gray-600/10 transition-all duration-300 dark:border-gray-700 dark:bg-gray-800 dark:shadow-none lg:visible lg:relative lg:flex lg:w-7/12 lg:translate-y-0 lg:scale-100 lg:flex-row lg:items-center lg:gap-0 lg:border-none lg:bg-transparent lg:p-0 lg:opacity-100 lg:shadow-none">
+                        <div id="navLayer" aria-hidden="true"
+                            class="fixed inset-0 z-10 h-screen w-screen origin-bottom scale-y-0 bg-white/70 backdrop-blur-2xl transition duration-500 dark:bg-gray-900/70 lg:hidden">
+                        </div>
+                        <div id="navlinks"
+                            class="invisible absolute top-full left-0 z-20 w-full origin-top-right translate-y-1 scale-90 flex-col flex-wrap justify-end gap-6 rounded-3xl border border-gray-100 bg-white p-8 opacity-0 shadow-2xl shadow-gray-600/10 transition-all duration-300 dark:border-gray-700 dark:bg-gray-800 dark:shadow-none lg:visible lg:relative lg:flex lg:w-7/12 lg:translate-y-0 lg:scale-100 lg:flex-row lg:items-center lg:gap-0 lg:border-none lg:bg-transparent lg:p-0 lg:opacity-100 lg:shadow-none">
                             <div class="w-full text-gray-600 dark:text-gray-200 lg:w-auto lg:pr-4 lg:pt-0">
-                                <ul class="flex flex-col gap-6 tracking-wide lg:flex-row lg:justify-center lg:gap-0 lg:text-sm">
+                                <ul
+                                    class="flex flex-col gap-6 tracking-wide lg:flex-row lg:justify-center lg:gap-0 lg:text-sm">
                                     <li>
-                                        <a href="#features" class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                        <a href="#features"
+                                            class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">Home</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#solution" class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                        <a href="#solution"
+                                            class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">About Us</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#reviews" class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                        <a href="#reviews"
+                                            class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">Contact Us</span>
                                         </a>
                                     </li>
-                                
+
                                 </ul>
                             </div>
 
-                    
+
                         </div>
                     </div>
                 </div>
@@ -127,7 +139,17 @@ include "functions/functions.php";
 
                                     </h3>
                                     <p class="c4dav cabeq cwx0r"><?php echo $program["department_description"] ?></p>
-                
+                                    <div class="c66wr c4dav" data-aos="fade-down">
+                                        <div class="c910c cex2t c85im c3tia c78uy cdqpw">
+                                            <a class="csi51 c910c cmbi4 cvgqz c23lh cqlg5 cl1vv cl17h crc38 cux88 c85im c3tia cr5is cbeus c4a6x car0u"
+                                                href="<?php echo $program["department_name"] ?>>
+                                                <span class="c910c cex2t c7n90">
+                                                Visit Us<span
+                                                        class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
 
                                 </div>
 
