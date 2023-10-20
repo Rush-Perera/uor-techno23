@@ -7,13 +7,9 @@ $program =  array (
     "project2" =>"",
     "project3" =>"",
 
-    "project1_description" =>"",
-    "project2_description" =>"",
-    "project3_description" =>"",
+    "project_count" => 0,
+"society_count" => 3,
 
-    "project1_image" =>"",
-    "project2_image" =>"",
-    "project3_image" =>"",
 
     "society1" =>"",
     "society1_description" =>"",

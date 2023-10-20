@@ -10,7 +10,8 @@ $program =  array(
 
     "postgraduate_oppotunities" => "Department of Civil and Environmental Engineering offers a diverse range of postgraduate programs for civil engineering graduates. The specialization fields of postgraduate programs are Structural Engineering, Highway and Transportation Engineering, and Water and Environmental Engineering.",
 
-
+"project_count" => 4,
+"society_count" => 1,
     "project1" => "Floating city model",
     "project2" => "Structural Performance and Morphological Characteristics of Pervious Concrete (PC)
     ",
@@ -30,17 +31,12 @@ $program =  array(
     "project3_image" => "images/dcee_P3I1.webp",
     "project4_image" => "images/dcee_P4I1.webp",
 
+  
+
     "society1" => "Civil and Environmental Engineering Society",
     "society1_description" => "University societies like CEES offer opportunities for personal growth, skill development, and shared experiences for students. They organize events, programs, and competitions to enhance interpersonal and leadership qualities, fostering academic and personal development",
     "society1_image" => "images\dcee_P1I3.webp",
 
-    "society2" => "",
-    "society2_description" => "",
-    "society2_image" => "",
-
-    "society3" => "",
-    "society3_description" => "",
-    "society3_image" => "",
 
 
 );
