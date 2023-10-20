@@ -152,7 +152,7 @@ include "functions/functions.php";
                                 <div class="swiper-wrapper cdfzo" data-highlighter="">
                                     <!-- deie1 -->
                                     <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
                                             <!-- Particles animation -->
                                             <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
                                                 <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
@@ -180,9 +180,70 @@ include "functions/functions.php";
                                             </div>
                                         </div>
                                     </div> 
+                                    <!-- dcee1 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dcee_P1I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Floating city model</div>
+                                                    <div class="ca0bb cwx0r">A floating city model is a futuristic urban concept built on water bodies.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- dmme1 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dmme_P1I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Design and Development of a Cocoa Melanging and Conching Machine for Small-scale Industry</div>
+                                                    <div class="ca0bb cwx0r">The development of a Cocoa Melanging and Conching Machine.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
                                     <!-- deie2 -->
                                     <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                    
+                                        <div class="c910c c8yyj cqkfc c0a7w cxs0p" style="height:100%">
                                             <!-- Particles animation -->
                                             <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
                                                 <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
@@ -203,6 +264,8 @@ include "functions/functions.php";
                                                             DEIE 
                                                         </a>
                                                     </div>
+                                                    <!-- <div class="cnc21 cabeq c0hcy"><br><br></div>
+                                                    <div class="ca0bb cwx0r"><br><br></div> -->
                                                 </div>
                                                 <div class="cbtot">
                                                     <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" style="margin-bottom:2rem;" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
@@ -210,9 +273,69 @@ include "functions/functions.php";
                                             </div>
                                         </div>
                                     </div>
+                                    <!-- dcee2 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dcee_P2I2_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Structural Performance andMorphological Characteristics ofPervious Concrete (PC)</div>
+                                                    <div class="ca0bb cwx0r">The structural performance and morphological characteristics of previous concrete reveal valuable insights.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <!-- dmme2 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dmme_P2I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Development of Wave Energy Convertor Inspired by the Blow Hole Principle</div>
+                                                    <div class="ca0bb cwx0r">The development of a wave energy convertor inspired by the blow-hole principle.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
                                     <!-- deie3 -->
                                     <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
-                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                        <div class="c910c c8yyj cqkfc c0a7w cxs0p" style="height:100%">
                                             <!-- Particles animation -->
                                             <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
                                                 <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
@@ -236,6 +359,126 @@ include "functions/functions.php";
                                                 </div>
                                                 <div class="cbtot">
                                                     <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" style="margin-bottom:2rem;" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- dcee3 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dcee_P3I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Rubberized Concrete (RuC) using Crumb Rubber (CR) Aggregate and Waste Tire Steel Fibers (WTSF)</div>
+                                                    <div class="ca0bb cwx0r">Rubberized concrete, a cutting-edge construction material, blends traditional concrete with recycled rubber particles.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- dmme3 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dmme_P3I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Modification of Experimental Set-up and Investigation on the Effect of Infusion Parameters for the Structural Properties of Polymer Matrix Composite</div>
+                                                    <div class="ca0bb cwx0r">This research investigates the impact of infusion parameters on the structural properties of polymer matrix composites.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    <!-- deie4 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/deie_P4I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Athlete Workload Management System using an IOT Based Wearable Wireless Body Area Network</div>
+                                                    <div class="ca0bb cwx0r">Professional athletes aim for peak performance while managing injury and fatigue risks.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DEIE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" style="margin-bottom:2rem;" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- dcee4 -->
+                                    <div class="swiper-slide c910c c6skp cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cjz9y cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p" style="height:100%">
+                                            <!-- Particles animation -->
+                                            <div class="clm9l crjl7 cbati cazhe clyql cpvha cl17h cri0w c5bh9" aria-hidden="true">
+                                                <canvas data-particle-animation="" data-particle-quantity="3"></canvas>
+                                            </div>                                            
+                                            <!-- Radial gradient -->
+                                            <div class="cd3pv clm9l cj9ju ck1c9 cbati c6prr c8t6z c22q0 cht4j" aria-hidden="true">
+                                                <div class="c0ddw clm9l crjl7 c1rz6 cbok3 cpmj6 chfxh cpvha cl17h cxxj9"></div>
+                                            </div>
+                                            <img class="ca0bb" style="padding:0.8rem;"  src="images/home_projects/dcee_P4I1_home.png" width="100%" height="56" alt="Icon 01">
+                                            <div class="cx3hx c3ztf c1yb0 c47li">   
+                                                <div class="cmm3x">
+                                                    <div class="cnc21 cabeq c0hcy">Highway Multi-Modal Hub</div>
+                                                    <div class="ca0bb cwx0r">The efficiency and effectiveness of transport infrastructure is directly correlated to a growing economy.</div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
+                                                            DCEE 
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="cbtot">
+                                                    <a class="cex2t c7n90 crcb7 c1xbd cvgqz cqlg5 cl1vv cl17h c4a6x car0u" href="#0">Learn More <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span></a>
                                                 </div>
                                             </div>
                                         </div>
