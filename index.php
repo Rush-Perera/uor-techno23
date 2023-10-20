@@ -584,8 +584,7 @@ include "functions/functions.php";
                                                             <h3
                                                                 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
                                                                 Electrical & Infomation Engineering</h3>
-                                                            <p class="cwx0r">Electrical & Infomation Engineering degree
-                                                                program description goes here</p>
+                                                            <p class="cwx0r">Department of Electrical and Information Engineering, University of Ruhuna, offers a BSc Eng (Hons) in Electrical and Information Engineering degree program accredited by the Washington Accord. The curriculum covers Power Systems, Electronic, Telecommunication, and Software Engineering specializations.</p>
                                                         </div>
                                                     </div>
                                                     <div>
@@ -647,8 +646,7 @@ include "functions/functions.php";
                                                             <h3
                                                                 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
                                                                 Mechanical & Manufacturing Engineering</h3>
-                                                            <p class="cwx0r">Mechanical & Manufacturing Engineering
-                                                                degree program description goes here</p>
+                                                            <p class="cwx0r">Department of Mechanical and Manufacturing Engineering Department, University of Ruhuna, offers a B.Sc. in MME program with four specializations: Materials and Manufacturing Engineering, Thermal and Fluid Engineering, Applied Mechanics, Control, Mechatronics, and Robotics, and Automobile, Marine Engineering, and Engineering Design.</p>
                                                         </div>
                                                     </div>
                                                     <div>
@@ -709,8 +707,7 @@ include "functions/functions.php";
                                                             <h3
                                                                 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
                                                                 Civil & Environmental Engineering</h3>
-                                                            <p class="cwx0r">Civil & Environmrntal Engineering degree
-                                                                program description goes here</p>
+                                                            <p class="cwx0r">Civil and Environmental Engineering Department of the University of Ruhuna offers  BSc and postgraduate degrees, focusing on advanced technologies and Washington Accord compliance.</p>
                                                         </div>
                                                     </div>
                                                     <div>
@@ -770,7 +767,7 @@ include "functions/functions.php";
                                                             <h3
                                                                 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
                                                                 Computer Engineering</h3>
-                                                            <p class="cwx0r">Computer Engineering degree program description goes here</p>
+                                                            <p class="cwx0r">Department of Computer Engineering, University of Ruhuna, offers a BSc in Computer Engineering Honors degree with specializations in Software Engineering, Machine Learning, Cyber Security and Networking Engineering, and Electronics and Embedded Systems Engineering.</p>
                                                         </div>
                                                     </div>
                                                     <div>
@@ -829,9 +826,8 @@ include "functions/functions.php";
                                                         <div>
                                                             <h3
                                                                 class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
-                                                                Marine Science & Naval Architecture Engineering</h3>
-                                                            <p class="cwx0r">Marine Science & Naval Architecture
-                                                                Engineering degree program description goes here</p>
+                                                                Marine Engineering & Naval Architecture Engineering</h3>
+                                                            <p class="cwx0r">The Bachelor of Science in Engineering Honors (B.Sc.EngHons) specialization in Marine engineering and Naval Architecture is a newly offered degree programme by the Department of Marine Engineering and Naval Architecture (DMENA).</p>
                                                         </div>
                                                     </div>
                                                     <div>
