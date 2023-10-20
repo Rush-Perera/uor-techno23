@@ -4,143 +4,329 @@ include "functions/functions.php";
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
     <title>Contact - FOE-UOR | Techno 2023</title>
-    <link href="css/contact_aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/contact_swiper-bundle.min.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="css/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/swiper-bundle.min.css">
+    <link href="css/home.css" rel="stylesheet">
+    <link href="css/header-home.css" rel="stylesheet">
     <link href="css/contact.css" rel="stylesheet">
-    <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/contact_script.js"></script>
+    <script defer="" data-domain="preview.cruip.com,rollup.cruip.com" src="js/script.js"></script>
 </head>
-<body class="contact">
-        <div class="contact_wrapper">
-            <main class="contact_main">
-                    <div class="contact_hero">
-                        <div class=contact_hero_container">
-                            <!-- particle animation -->
-                            <div class="particle_animation" aria-hidden="true">
-                                <canvas data-particle-animation=""></canvas>
-                            </div>
-                            <!-- Hero content -->
-                            <div class="hero_content">
-                                <div class="contact_hero_content">
-                                    <h1 data-aos="fade-down">About Us</h1>
-    
-                                </div>
-    
-    
-                                <div  data-aos="fade-down" class="contact-department">
-                                    <h3>
-                                        University of Ruhuna
-                                    </h3>
-                                </div>
-                                <div class="hero_flex">
-                                    
-        
-                                    <div class="contact_hero_text hero_flex_txt" data-aos="fade-down">
-                                        <p>
-                                            Lorem ipsum dolor sit amet consectetur. Praesent facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae praesent eu.
-                                        </p>
-                                    </div>
 
-                                    <div class="button">
-                                        <h1>
-                                            More information
-                                        </h1>
-                                    </div>
-                                </div>
+<body class="cxs0p c8fn4 cqrjt cklvb cb0rx">
 
+    <!-- Page wrapper -->
+    <div class="cx3hx ctkta c1yb0 cqkfc">
+
+        <!-- Site header -->
+        <header class="astro-ES6RJE63">
+            <nav class="absolute z-10 w-full border-b border-black/5 dark:border-white/5 lg:border-transparent">
+                <div class="mx-auto max-w-6xl px-6 md:px-12 lg:px-6 xl:px-0">
+                    <div class="relative flex flex-wrap items-center justify-between gap-6 py-2 md:gap-0 md:py-4">
+                        <div class="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
+                            <!-- <a href="#home" aria-label="logo" class="flex items-center space-x-2 px-0">
+
+                                <img src="images/main_logo.svg" width="60" height="60" />
+
+
+                            </a> -->
+
+                            <div class="relative flex max-h-10 items-center lg:hidden">
+                                <button type="button" aria-label="humburger" id="hamburger" class="relative -mr-6 p-6">
+                                    <div aria-hidden="true" id="line"
+                                        class="m-auto h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300">
+                                    </div>
+                                    <div aria-hidden="true" id="line2"
+                                        class="m-auto mt-2 h-0.5 w-5 rounded bg-sky-900 transition duration-300 dark:bg-gray-300">
+                                    </div>
+                                </button>
                             </div>
                         </div>
-                    </div>
+                        <div id="navLayer" aria-hidden="true"
+                            class="fixed inset-0 z-10 h-screen w-screen origin-bottom scale-y-0 bg-white/70 backdrop-blur-2xl transition duration-500 dark:bg-gray-900/70 lg:hidden">
+                        </div>
+                        <div id="navlinks"
+                            class="invisible absolute top-full left-0 z-20 w-full origin-top-right translate-y-1 scale-90 flex-col flex-wrap justify-end gap-6 rounded-3xl border border-gray-100 bg-white p-8 opacity-0 shadow-2xl shadow-gray-600/10 transition-all duration-300 dark:border-gray-700 dark:bg-gray-800 dark:shadow-none lg:visible lg:relative lg:flex lg:w-7/12 lg:translate-y-0 lg:scale-100 lg:flex-row lg:items-center lg:gap-0 lg:border-none lg:bg-transparent lg:p-0 lg:opacity-100 lg:shadow-none">
+                            <div class="w-full text-gray-600 dark:text-gray-200 lg:w-auto lg:pr-4 lg:pt-0">
+                                <ul
+                                    class="flex flex-col gap-6 tracking-wide lg:flex-row lg:justify-center lg:gap-0 lg:text-sm">
+                                    <li>
+                                        <a href="#features"
+                                            class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                            <span class="text-base lg:text-sm lg:font-thin">Home</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#solution"
+                                            class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                            <span class="text-base lg:text-sm lg:font-thin">About Us</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#reviews"
+                                            class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
+                                            <span class="text-base lg:text-sm lg:font-thin">Contact Us</span>
+                                        </a>
+                                    </li>
 
-                    <div class="contact_hero">
-                        <div class="contact_hero_container">
-                            <!-- particle animation -->
-                            <div class="particle_animation" aria-hidden="true">
-                                <canvas data-particle-animation=""></canvas>
+                                </ul>
                             </div>
-                            <!-- Hero content -->
-                            <div class="hero_content">
-                            
-    
-                                <div  data-aos="fade-down" class="contact-department">
-                                    <h3>
-                                        Faculty of Engineering
-                                    </h3>
-                                </div>
-                                <div class="hero_flex">
-                                    
-        
-                                    <div class="contact_hero_text hero_flex_txt" data-aos="fade-down">
-                                        <p>
-                                            Lorem ipsum dolor sit amet consectetur. Praesent facilisis bibendum sit arcu non. Felis amet at lacus eget sed ultricies diam morbi luctus. Est et volutpat id sit. Varius sed vel massa sagittis vitae praesent eu.
-                                        </p>
-                                    </div>
 
-                                    <div class="button">
-                                        <h1>
-                                            More information
-                                        </h1>
-                                    </div>
 
-                                    <div class="container_text">
-                                        <p>
-                                            Address :<br>
-                        Faculty of Engineering, University of Ruhuna Hapugala, <br>  
-                        Galle, Sri Lanka 80000<br>
-
-                        Phone :+(94)912245765/66<br>
-                        Fax :+(94)912245762<br>
-                        Email :ar [AT] eng.ruh.ac.lk<br>
-                                        </p>
-                                    </div>
-                                </div>
-
-                            </div>
                         </div>
                     </div>
-                
-                
-                
-                
+                </div>
+            </nav>
+        </header>
 
-                <section data-aos="fade-down">
-                    <div class="outcome_container">
-                         <!-- particle animation -->
-                    <div class="particle_animation" aria-hidden="true">
+        <!-- Page content -->
+        <main class="cmm3x">
+
+            <!-- Hero -->
+            <section>
+                <div class="c910c c82l3 ckx8h cl9xt csj8y">
+
+                    <!-- Particles animation -->
+                    <div class="clm9l crjl7 cbati" aria-hidden="true">
                         <canvas data-particle-animation=""></canvas>
                     </div>
-                        <div class="container_title">
-                            <h1>Feedbacks</h1>
-                        </div>
-                        <div class="container_text">
-                            <div class="contact-form-wrapper">
-                                <form>
-                                  <div class="form-item">
-                                    <input type="text" name="sender" required>
-                                    <label>Name:</label>
-                                  </div>
-                                  <div class="form-item">
-                                    <input type="text" name="email" required>
-                                    <label>Email:</label>
-                                  </div>
-                                  <div class="form-item">
-                                    <textarea class="" name="message" required></textarea>
-                                    <label>Message:</label>
-                                  </div>
-                                  <button class="button"><h1>Send</h1></button>  
-                                </form>
-                              </div>
+
+                    <!-- Illustration -->
+                    <div class="cd3pv clm9l crjl7 cbati c0n2e cqkfc cifrt" aria-hidden="true">
+                        <div class="clm9l cj9ju ck1c9 cbati c22q0">
+                            <img src="images/glow-bottom.svg" class="cl1mx" width="2146" height="774"
+                                alt="Hero Illustration">
                         </div>
                     </div>
-                </section>
-                
-        </main> 
 
-    </div>
+                    <div class="cy2cl clflm c4qa9 ">
+
+                        <!-- Hero content -->
+                        <div class="c82l3 cxe5f cst88">
+
+                            <h1 class="cmbrg cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc" data-aos="fade-down">Contact Us
+                            </h1>
+
+                            <div>
+                                <a class="ccr9i c0l3r cxs0p cejt7 c2wc5 cqlg5 cl1vv cl17h c4znw c4a6x" href="#0">
+                                    <svg class="cry3f c7f0g cjig1" xmlns="http://www.w3.org/2000/svg" width="16"
+                                        height="16">
+                                        <path
+                                            d="m1.999 0 1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 0l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 10l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM6.292 7.586l2.646-2.647L11.06 7.06 8.413 9.707zM0 13.878l5.586-5.586 2.122 2.121L2.12 16z">
+                                        </path>
+                                    </svg>
+                                    <span>Faculty of Engineering - University of Ruhuna</span>
+                                </a>
+                            </div>
+
+
+
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <section class="c910c">
+
+                <!-- Particles animation -->
+                <div class="clm9l ck1c9 cto33 cbati ct1az c9aya cstld c82cr c22q0">
+                    <div class="clm9l crjl7 cbati" aria-hidden="true">
+                        <canvas data-particle-animation="" data-particle-quantity="6" data-particle-staticity="30"
+                            width="370" height="370" style="width: 340px; height: 340px;"></canvas>
+                    </div>
+                </div>
+
+                <div class="c82l3 ckx8h cl9xt csj8y">
+                    <div class="c9b6d cq2hq">
+
+                        <!-- Highlighted boxes -->
+                        <div class="c910c ch0mu c6ftu">
+                            <!-- Blurred shape -->
+                            <div class="cd3pv clm9l cj9ju ck1c9 cpzqy c22q0 c5nt0 cf1fs" aria-hidden="true">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
+                                    <defs>
+                                        <linearGradient id="bs2-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
+                                            <stop offset="0%" stop-color="#6366F1" data-darkreader-inline-stopcolor=""
+                                                style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                            <stop offset="100%" stop-color="#6366F1" stop-opacity="0"
+                                                data-darkreader-inline-stopcolor=""
+                                                style="--darkreader-inline-stopcolor: #0d0f8c;"></stop>
+                                        </linearGradient>
+                                    </defs>
+                                    <path fill="url(#bs2-a)" fill-rule="evenodd" d="m346 898 461 369-284 58z"
+                                        transform="translate(-346 -898)"></path>
+                                </svg>
+                            </div>
+                            <!-- Grid -->
+                            <div class="cb706 c5v3q car0u c3wfo" data-highlighter="">
+                                <!-- Box #1 -->
+                                <div class="cw4bu aos-init aos-animate" data-aos="fade-down"
+                                    style="--mouse-x: 528.2448425292969px; --mouse-y: 40.4151611328125px;">
+                                    <div
+                                        class="c910c c3ztf cqkfc cvitu cbok3 cxfql cux88 c85im chpt4 cl006 c8bq2 cnnxg cdtjx ciw8g cyaau cr5is c78uy cys3t cq0d5 cdnbd co67a croff cuwru clpi6 c1whm c91wt c4v01 c3zjn cngr8 cbjp0 cdt9a">
+                                        <div class="c910c c8yyj c3ztf cqkfc c0a7w cxs0p">
+                                            <div class="cx3hx c1yb0 cxp2a c3mep c4c5u">
+                                                <!-- Blurred shape -->
+                                                <div class="clm9l cmcb7 cto33 cf1fs" aria-hidden="true">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="342" height="393">
+                                                        <defs>
+                                                            <linearGradient id="bs-a" x1="19.609%" x2="50%" y1="14.544%"
+                                                                y2="100%">
+                                                                <stop offset="0%" stop-color="#6366F1"
+                                                                    data-darkreader-inline-stopcolor=""
+                                                                    style="--darkreader-inline-stopcolor: #0d0f8c;">
+                                                                </stop>
+                                                                <stop offset="100%" stop-color="#6366F1"
+                                                                    stop-opacity="0" data-darkreader-inline-stopcolor=""
+                                                                    style="--darkreader-inline-stopcolor: #0d0f8c;">
+                                                                </stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <path fill="url(#bs-a)" fill-rule="evenodd"
+                                                            d="m104 .827 461 369-284 58z"
+                                                            transform="translate(0 -112.827)" opacity=".7"></path>
+                                                    </svg>
+                                                </div>
+                                                <!-- Radial gradient -->
+                                                <div class="cd3pv clm9l cj9ju ck1c9 cbati cx3hx c6prr c3ztf c22q0 cht4j c7n90 c16i7"
+                                                    aria-hidden="true">
+                                                    <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                                                    <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                                                </div>
+
+
+                                                <!-- Text -->
+                                                <div class="clx9g c7f0g c47li cls9d chb5s cha6t cxsq4">
+                                                    <div class="c0o0c">
+                                                        <div>
+                                                            <h3
+                                                                class="cex2t cyvm0 c1wf5 cj15g ctvzo cnu2b cleoa ck8oc c0hcy c3btc">
+                                                                Address</h3>
+                                                            <p class="cwx0r">Faculty of Engineering, <br>University of
+                                                                Ruhuna <br>Hapugala,<br>
+                                                                Galle, <br>Sri Lanka 80000</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cgbi5">
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
+                                                                Phone :+(94)912245765/66 <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="cgbi5">
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
+                                                                Fax :+(94)912245762 <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div>
+                                                        <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u"
+                                                            href="#0">
+                                                            <span class="c910c cex2t c7n90" style="font-size: 1rem;">
+                                                                Email :ar [AT] eng.ruh.ac.lk <span
+                                                                    class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <!-- Image -->
+                                                <div class="c910c cdrsb  cqkfc cbwl6">
+                                                    <iframe
+                                                        class="clm9l cj9ju ck1c9 c82l3 cl1mx c22q0 c270x cgo1b c6nyy ci2v4"
+                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.380118257471!2d80.18938967547578!3d6.079373728164024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae1714b88f66a7b%3A0x8a7feea89839a01a!2zRmFjdWx0eSBvZiBFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBSdWh1bmEgKOC2ieC2guC2ouC3kuC2seC3muC2u-C3lCDgtrTgt5PgtqjgtrosIOC2u-C3lOC3hOC3lOC2q-C3lCDgt4Dgt5Lgt4Hgt4rgt4Dgt4Dgt5Lgtq_gt4rigI3gtrrgt4_gtr3gtros4LeE4La04LeU4Lac4La9ICk!5e0!3m2!1sen!2slk!4v1697733637113!5m2!1sen!2slk"
+                                                        width="600" height="450" style="border:0;" allowfullscreen=""
+                                                        loading="lazy"
+                                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </section>
+
+            <!-- Features #2 -->
+            <section>
+                <div class="c82l3 ckx8h cl9xt csj8y">
+                    <div class="c910c cqkfc c04c5 cevdd c4ok0 cqppu">
+                        <!-- Radial gradient -->
+                        <!-- <div class="cd3pv clm9l ck1c9 cto33 cbati cx3hx c6prr c8t6z c22q0 cwoop c7n90 c16i7" aria-hidden="true">
+                            <div class="c0ddw clm9l crjl7 c1rz6 cytct c05st cdbh6"></div>
+                            <div class="c0ddw clm9l c2axp cwtr9 c1rz6 cs33t czb29"></div>
+                        </div> -->
+                        <!-- Blurred shape -->
+                        <!-- <div class="cd3pv clm9l cj9ju cdelm cbati cht4j c5nt0 cf1fs" aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
+                                <defs>
+                                    <linearGradient id="bs5-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
+                                        <stop offset="0%" stop-color="#A855F7"></stop>
+                                        <stop offset="100%" stop-color="#6366F1" stop-opacity="0"></stop>
+                                    </linearGradient>
+                                </defs>
+                                <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)"></path>
+                            </svg>
+                        </div> -->
+                        <!-- Content -->
+                        <div class="c82l3 cxe5f cst88">
+                            <h2 class="c7ehl cyvm0 c1wf5 cj15g ctvzo cnu2b ck06v c3btc">We value your Feedback</h2>
+                            <p class="cabeq cwx0r caxse">Please don't hesitate to provide your valuable feedback to us. Your thoughts and suggestions are invaluable in shaping our platform to better meet your needs and expectations.</p>
+                            <div class="container_text">
+                                <div class="contact-form-wrapper">
+                                    <div class="form-item1">
+                                        <input class="input-item" type="text" name="sender" id="sender" required=""
+                                            placeholder="Name">
+                                    </div>
+                                    <div class="form-item1">
+                                        <input class="input-item" type="email" name="email" id="email" required=""
+                                            placeholder="Email">
+                                    </div>
+                                    <div class="form-item1">
+                                        <textarea class="input-item" name="message" required="" id="message" rows="6"
+                                            placeholder="Message"></textarea>
+                                    </div>
+                                    <div>
+                                        <button
+                                            class="ccr9i cyvm0 cf5ds casm6 cdjur chy5c cqlg5 cl1vv cl17h cs96x car0u"
+                                            onclick="sendMail()">
+                                            Submit <span class="cqbh5 c52y9 ckvr2 ceydo cl1vv cl17h cbzrl">-&gt;</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+
+
+
+        </main>
+
         <!-- Site footer -->
         <footer>
             <div class="c82l3 ckx8h cl9xt csj8y">
@@ -236,10 +422,13 @@ include "functions/functions.php";
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">EIES</a>
                             </li>
                             <li>
-                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">MMES</a>
+                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">MMESS</a>
                             </li>
                             <li>
                                 <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">CEES</a>
+                            </li>
+                            <li>
+                                <a class="cwx0r cqlg5 cl1vv cl17h cxovy" href="#0">IET</a>
                             </li>
                         </ul>
                     </div>
@@ -277,16 +466,82 @@ include "functions/functions.php";
             </div>
         </footer>
 
+    </div>
 
-    
-    
-    <script src="js/contact_alpinejs.min.js" defer=""></script>
-    <script src="js/contact_aos.js"></script>
-    <script src="js/contact_swiper-bundle.min.js"></script>
-    <script src="js/contact_main.js"></script>   
+    <script src="js/alpinejs.min.js" defer=""></script>
+    <script src="js/aos.js"></script>
+    <script src="js/swiper-bundle.min.js"></script>
+    <script src="js/main.js"></script>
 
+
+
+    <script>console.log("%cImportant!", "color: blue; font-size: x-large"); console.log("%cThe page you are viewing is for demo purposes only. CSS and HTML have been minified and class names have been shortened to improve the page load time. Download our templates from https://cruip.com/ 😉", "font-size: large");</script>
+    <script>const pagesList = [{ "name": "Home", "url": "https://preview.cruip.com/stellar/index.html", "active": true }, { "name": "Sign in", "url": "https://preview.cruip.com/stellar/signin.html", "active": false }, { "name": "Sign up", "url": "https://preview.cruip.com/stellar/signup.html", "active": false }, { "name": "Reset password", "url": "https://preview.cruip.com/stellar/reset-password.html", "active": false }]; if (window != top) { window.parent.postMessage(pagesList, "https://cruip.com") };</script>
+    <script defer=""
+        src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854"
+        data-cf-beacon="{"
+        rayid":"81302398af6965fc","version":"2023.8.0","r":1,"token":"59cc17d45d734f9ba118c63036ab1b84","si":100}"=""
+        crossorigin="anonymous"></script>
+
+    <script>
+
+        let slideIndex = 0;
+        showSlides();
+
+        function showSlides() {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) { slideIndex = 1 }
+            slides[slideIndex - 1].style.display = "block";
+            setTimeout(showSlides, 2000); // Change image every 2 seconds
+        }
+
+        function sendMail() {
+
+
+            var sender = document.getElementById("sender");
+            var email = document.getElementById("email");
+            var message = document.getElementById("message");
+            
+            // Get the form data
+            const formData = new FormData();
+            formData.append("sender", sender.value);
+            formData.append("email", email.value);
+            formData.append("message", message.value);
+
+            sender.value = "";
+            email.value = "";
+            message.value = "";
+
+
+            // Send the data to the PHP script using the fetch API
+            fetch("./forms/sendEmail.php", {
+                method: "POST",
+                body: formData
+            })
+                .then((response) => response.text())
+                .then((data) => {
+                    // Handle the response from the PHP script here
+                    alert("Email sent successfully");
+
+                })
+                .catch((error) => {
+                    console.error("Error:", error);
+                });
+        };
+
+
+
+    </script>
+
+    <script>
+        (function () { const l = document.createElement("link").relList; if (l && l.supports && l.supports("modulepreload")) return; for (const e of document.querySelectorAll('link[rel="modulepreload"]')) o(e); new MutationObserver(e => { for (const t of e) if (t.type === "childList") for (const d of t.addedNodes) d.tagName === "LINK" && d.rel === "modulepreload" && o(d) }).observe(document, { childList: !0, subtree: !0 }); function i(e) { const t = {}; return e.integrity && (t.integrity = e.integrity), e.referrerpolicy && (t.referrerPolicy = e.referrerpolicy), e.crossorigin === "use-credentials" ? t.credentials = "include" : e.crossorigin === "anonymous" ? t.credentials = "omit" : t.credentials = "same-origin", t } function o(e) { if (e.ep) return; e.ep = !0; const t = i(e); fetch(e.href, t) } })(); let c = !1; const a = document.querySelector("#navlinks"), u = document.querySelector("#hamburger"), n = document.querySelector("#navLayer"), y = [...a.querySelector("ul").children]; function f() { c ? (a.classList.remove("invisible", "scale-90", "opacity-0", "translate-y-"), a.classList.add("!visible", "!scale-100", "!opacity-100", "!lg:translate-y-0"), u.classList.add("toggled"), n.classList.remove("origin-bottom", "scale-y-0"), n.classList.add("origin-top", "scale-y-100")) : (a.classList.remove("!visible", "!scale-100", "!opacity-100", "!lg:translate-y-0"), a.classList.add("invisible", "scale-90", "opacity-0", "translate-y-"), u.classList.remove("toggled"), n.classList.remove("origin-top", "scale-y-100"), n.classList.add("origin-bottom", "scale-y-0")) } u.addEventListener("click", () => { c = !c, f() }); y.forEach(s => { s.addEventListener("click", () => { c = !c, f() }) }); const r = document.querySelectorAll(".faq"); for (let s = 0; s < r.length; s++) { const l = r[s].querySelector(".faq-answer"), i = r[s].querySelector(".arrow-down"); r[s].addEventListener("click", () => { for (let o = 0; o < r.length; o++) { const e = r[o].querySelector(".faq-answer"), t = r[o].querySelector(".arrow-down"); r[s] != r[o] && (e.style.maxHeight = "0px", t.classList.replace("rotate-180", "rotate-0")) } i.classList.contains("rotate-180") ? (l.style.maxHeight = 0 + "px", i.classList.replace("rotate-180", "rotate-0")) : (l.style.maxHeight = l.scrollHeight + "px", i.classList.replace("rotate-0", "rotate-180")) }) }
+    </script>
 
 </body>
-
 
 </html>
