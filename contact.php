@@ -56,19 +56,19 @@ include "functions/functions.php";
                                 <ul
                                     class="flex flex-col gap-6 tracking-wide lg:flex-row lg:justify-center lg:gap-0 lg:text-sm">
                                     <li>
-                                        <a href="#features"
+                                        <a href="./"
                                             class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">Home</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#solution"
+                                        <a href="http://www.eng.ruh.ac.lk/"
                                             class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">About Us</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#reviews"
+                                        <a href="contact.php"
                                             class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">Contact Us</span>
                                         </a>

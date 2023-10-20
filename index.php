@@ -22,8 +22,8 @@ include "functions/functions.php";
     <!-- Page wrapper -->
     <div class="cx3hx ctkta c1yb0 cqkfc">
 
-        <!-- Site header -->
-        <header class="astro-ES6RJE63">
+           <!-- Site header -->
+           <header class="astro-ES6RJE63">
             <nav class="absolute z-10 w-full border-b border-black/5 dark:border-white/5 lg:border-transparent">
                 <div class="mx-auto max-w-6xl px-6 md:px-12 lg:px-6 xl:px-0">
                     <div class="relative flex flex-wrap items-center justify-between gap-6 py-2 md:gap-0 md:py-4">
@@ -55,19 +55,19 @@ include "functions/functions.php";
                                 <ul
                                     class="flex flex-col gap-6 tracking-wide lg:flex-row lg:justify-center lg:gap-0 lg:text-sm">
                                     <li>
-                                        <a href="#features"
+                                        <a href="./"
                                             class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">Home</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#solution"
+                                        <a href="http://www.eng.ruh.ac.lk/"
                                             class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">About Us</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#reviews"
+                                        <a href="contact.php"
                                             class="flex items-center transition hover:text-primary dark:hover:text-white md:px-4">
                                             <span class="text-base lg:text-sm lg:font-thin">Contact Us</span>
                                         </a>
@@ -1124,39 +1124,39 @@ include "functions/functions.php";
     </script>
 
     <script>
-        document.getElementById('c1').addEventListener('click', function() {
-        window.location = 'project.php?project=deieP3';
-    });
-        document.getElementById('c2').addEventListener('click', function() {
-        window.location = 'project.php?project=dceeP1';
-    });
-        document.getElementById('c3').addEventListener('click', function() {
-        window.location = 'project.php?project=dmmeP1';
-    });
-        document.getElementById('c4').addEventListener('click', function() {
-        window.location = 'project.php?project=deieP2';
-    });
-        document.getElementById('c5').addEventListener('click', function() {
-        window.location = 'project.php?project=dceeP2';
-    });
-        document.getElementById('c6').addEventListener('click', function() {
-        window.location = 'project.php?project=dmmeP2';
-    });
-        document.getElementById('c7').addEventListener('click', function() {
-        window.location = 'project.php?project=dcieP1';
-    });
-        document.getElementById('c8').addEventListener('click', function() {
-        window.location = 'project.php?project=dceeP3';
-    });
-        document.getElementById('c9').addEventListener('click', function() {
-        window.location = 'project.php?project=dmmeP3';
-    });
-        document.getElementById('c10').addEventListener('click', function() {
-        window.location = 'project.php?project=deieP4';
-    });
-        document.getElementById('c11').addEventListener('click', function() {
-        window.location = 'project.php?project=dceeP4';
-    });
+    //     document.getElementById('c1').addEventListener('click', function() {
+    //     window.location = 'project.php?project=deieP3';
+    // });
+    //     document.getElementById('c2').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dceeP1';
+    // });
+    //     document.getElementById('c3').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dmmeP1';
+    // });
+    //     document.getElementById('c4').addEventListener('click', function() {
+    //     window.location = 'project.php?project=deieP2';
+    // });
+    //     document.getElementById('c5').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dceeP2';
+    // });
+    //     document.getElementById('c6').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dmmeP2';
+    // });
+    //     document.getElementById('c7').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dcieP1';
+    // });
+    //     document.getElementById('c8').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dceeP3';
+    // });
+    //     document.getElementById('c9').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dmmeP3';
+    // });
+    //     document.getElementById('c10').addEventListener('click', function() {
+    //     window.location = 'project.php?project=deieP4';
+    // });
+    //     document.getElementById('c11').addEventListener('click', function() {
+    //     window.location = 'project.php?project=dceeP4';
+    // });
     </script>
 
 </body>
