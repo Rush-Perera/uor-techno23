@@ -231,7 +231,7 @@ include "functions/functions.php";
                                                         <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
                                                             href="#0">
                                                             <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
-                                                            DCEE 
+                                                            DMME 
                                                         </a>
                                                     </div>
                                                 </div>
@@ -324,7 +324,7 @@ include "functions/functions.php";
                                                         <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
                                                             href="#0">
                                                             <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
-                                                            DCEE 
+                                                            DMME 
                                                         </a>
                                                     </div>
                                                 </div>
@@ -349,7 +349,7 @@ include "functions/functions.php";
                                             <div class="cx3hx c3ztf c1yb0 c47li">   
                                                 <div class="cmm3x">
                                                     <div class="cnc21 cabeq c0hcy">Intelligent combination of Wi-Fi and mobile data simultaneously for better internet speed.</div>
-                                                    <div class="ca0bb cwx0r">Traditional Transmission Control Protocol (TCP) has long been the major transport layer protocol of data transmission over a single network link.</div>
+                                                    <div class="ca0bb cwx0r">Solution to enhance internet bandwidth by simultaneously using both Wi-Fi and LTE.</div>
                                                     <div>
                                                         <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
                                                             href="#0">
@@ -414,7 +414,7 @@ include "functions/functions.php";
                                                         <a class="csi51 c910c cvgqz cqlg5 cl1vv cl17h cxli6 cux88 c85im c3tia cr5is cxnq1 c4a6x car0u" style="margin-top: 1rem;
                                                             href="#0">
                                                             <span class="c910c cex2t c7n90" style="font-size: 0.9rem;">
-                                                            DCEE 
+                                                            DMME 
                                                         </a>
                                                     </div>
                                                 </div>
